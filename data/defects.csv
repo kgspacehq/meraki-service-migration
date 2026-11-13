@@ -1,0 +1,121 @@
+defect_id,wave,severity,status,module,title,opened_date,closed_date
+DEF-001,1,S2,Closed,Parts Integration,Parts reservation not released on cancellation,2026-07-20,2026-07-25
+DEF-002,1,S4,Closed,Mobile App,Offline sync loses photos on reconnect,2026-07-22,2026-08-01
+DEF-003,1,S3,Closed,SSO & Access,Depot supervisor role can edit closed tickets,2026-07-24,2026-07-30
+DEF-004,1,S2,Closed,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-07-25,2026-07-27
+DEF-005,1,S3,Closed,ERP Billing Integration,Labor hours rounded incorrectly on invoice,2026-08-05,2026-08-06
+DEF-006,1,S4,Closed,Mobile App,Offline sync loses photos on reconnect,2026-08-05,2026-08-12
+DEF-007,1,S3,Closed,Parts Integration,Parts reservation not released on cancellation,2026-08-13,2026-08-17
+DEF-008,1,S1,Closed,Dispatch & Scheduling,Technician calendar ignores depot time zone,2026-08-14,2026-08-23
+DEF-009,1,S3,Closed,Work Orders,Work order cannot be reassigned after parts request,2026-08-15,2026-08-21
+DEF-010,1,S4,Closed,ERP Billing Integration,Labor hours rounded incorrectly on invoice,2026-08-15,2026-08-24
+DEF-011,1,S4,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-08-15,2026-08-20
+DEF-012,1,S3,Closed,Dispatch & Scheduling,Auto-dispatch skips on-call technicians,2026-08-19,2026-08-31
+DEF-013,1,S2,Closed,Reporting,First-time-fix KPI counts cancelled tickets,2026-08-22,2026-08-25
+DEF-014,1,S3,Closed,Work Orders,Work order cannot be reassigned after parts request,2026-08-23,2026-08-31
+DEF-015,1,S2,Closed,SLA Management,SLA clock does not pause when ticket is On Hold,2026-08-28,2026-09-02
+DEF-016,1,S3,Closed,Dispatch & Scheduling,Technician calendar ignores depot time zone,2026-08-29,2026-09-01
+DEF-017,1,S2,Closed,Customer & Asset Data,Customer contact missing on site record,2026-09-01,2026-09-05
+DEF-018,2,S4,Closed,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-09-01,2026-09-08
+DEF-019,1,S1,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-09-02,2026-09-07
+DEF-020,1,S3,Closed,Mobile App,Signature capture fails on older tablets,2026-09-02,2026-09-10
+DEF-021,1,S2,Closed,Mobile App,Signature capture fails on older tablets,2026-09-03,2026-09-05
+DEF-022,1,S4,Closed,Reporting,First-time-fix KPI counts cancelled tickets,2026-09-03,2026-09-15
+DEF-023,2,S2,Closed,SLA Management,P1 escalation email not sent,2026-09-03,2026-09-08
+DEF-024,1,S3,Closed,Parts Integration,Parts reservation not released on cancellation,2026-09-04,2026-09-07
+DEF-025,2,S1,Closed,Data Migration,Legacy status code not mapped,2026-09-04,2026-09-14
+DEF-026,1,S3,Closed,Data Migration,Legacy status code not mapped,2026-09-05,2026-09-08
+DEF-027,2,S2,Closed,Work Orders,Duplicate work order created on save,2026-09-05,2026-09-09
+DEF-028,2,S4,Closed,Dispatch & Scheduling,Auto-dispatch skips on-call technicians,2026-09-06,2026-09-10
+DEF-029,2,S4,Closed,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-09-07,2026-09-09
+DEF-030,2,S4,Deferred,Dispatch & Scheduling,Technician calendar ignores depot time zone,2026-09-07,
+DEF-031,1,S4,Deferred,Work Orders,Duplicate work order created on save,2026-09-09,
+DEF-032,1,S4,Deferred,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-09-09,
+DEF-033,2,S2,Closed,ERP Billing Integration,Billing message rejected for customers without tax ID,2026-09-09,2026-09-16
+DEF-034,1,S4,Closed,Reporting,First-time-fix KPI counts cancelled tickets,2026-09-11,2026-09-16
+DEF-035,2,S3,Closed,Work Orders,Duplicate work order created on save,2026-09-11,2026-09-13
+DEF-036,1,S3,Closed,Mobile App,Signature capture fails on older tablets,2026-09-12,2026-09-14
+DEF-037,2,S4,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-09-14,2026-09-17
+DEF-038,2,S4,Closed,SLA Management,P1 escalation email not sent,2026-09-15,2026-09-26
+DEF-039,2,S3,Closed,SSO & Access,Depot supervisor role can edit closed tickets,2026-09-17,2026-09-19
+DEF-040,1,S3,Closed,Parts Integration,Parts reservation not released on cancellation,2026-09-18,2026-09-22
+DEF-041,2,S2,Closed,Data Migration,Closed date dropped for tickets closed on weekends,2026-09-20,2026-09-21
+DEF-042,2,S4,Deferred,Dispatch & Scheduling,Auto-dispatch skips on-call technicians,2026-09-20,
+DEF-043,2,S2,Closed,SLA Management,SLA clock does not pause when ticket is On Hold,2026-09-22,2026-10-02
+DEF-044,2,S2,Closed,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-09-27,2026-10-05
+DEF-045,2,S3,Closed,SLA Management,P1 escalation email not sent,2026-09-27,2026-10-02
+DEF-046,2,S3,Closed,ERP Billing Integration,Billing message rejected for customers without tax ID,2026-09-27,2026-09-30
+DEF-047,2,S4,Closed,SLA Management,SLA clock does not pause when ticket is On Hold,2026-09-27,2026-10-02
+DEF-048,2,S3,Closed,Parts Integration,Parts reservation not released on cancellation,2026-09-28,2026-09-29
+DEF-049,3,S3,Closed,Work Orders,Work order cannot be reassigned after parts request,2026-09-28,2026-10-04
+DEF-050,2,S2,Closed,SLA Management,SLA clock does not pause when ticket is On Hold,2026-09-30,2026-10-10
+DEF-051,3,S4,Closed,Mobile App,Signature capture fails on older tablets,2026-10-01,2026-10-09
+DEF-052,2,S3,Closed,Reporting,First-time-fix KPI counts cancelled tickets,2026-10-02,2026-10-13
+DEF-053,2,S3,Closed,SSO & Access,Depot supervisor role can edit closed tickets,2026-10-03,2026-10-09
+DEF-054,3,S2,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-10-03,2026-10-13
+DEF-055,3,S2,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-10-03,2026-10-07
+DEF-056,2,S3,Closed,Data Migration,Closed date dropped for tickets closed on weekends,2026-10-04,2026-10-07
+DEF-057,3,S2,Closed,SSO & Access,Depot supervisor role can edit closed tickets,2026-10-04,2026-10-10
+DEF-058,3,S2,Closed,SSO & Access,SSO session expires during long site visits,2026-10-04,2026-10-06
+DEF-059,2,S3,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-10-05,2026-10-15
+DEF-060,2,S4,Closed,Reporting,Depot dashboard filter returns all regions,2026-10-05,2026-10-11
+DEF-061,3,S3,Closed,ERP Billing Integration,Labor hours rounded incorrectly on invoice,2026-10-05,2026-10-10
+DEF-062,3,S1,Closed,Data Migration,Closed date dropped for tickets closed on weekends,2026-10-06,2026-10-18
+DEF-063,3,S3,Closed,SLA Management,SLA clock does not pause when ticket is On Hold,2026-10-06,2026-10-14
+DEF-064,3,S4,Closed,Reporting,Depot dashboard filter returns all regions,2026-10-06,2026-10-16
+DEF-065,2,S1,Closed,SSO & Access,Depot supervisor role can edit closed tickets,2026-10-08,2026-10-15
+DEF-066,3,S2,Closed,SLA Management,SLA clock does not pause when ticket is On Hold,2026-10-08,2026-10-15
+DEF-067,3,S3,Closed,Dispatch & Scheduling,Technician calendar ignores depot time zone,2026-10-08,2026-10-11
+DEF-068,3,S2,Closed,SLA Management,SLA clock does not pause when ticket is On Hold,2026-10-09,2026-10-11
+DEF-069,3,S3,Closed,Work Orders,Work order cannot be reassigned after parts request,2026-10-10,2026-10-21
+DEF-070,3,S3,Closed,SSO & Access,SSO session expires during long site visits,2026-10-12,2026-10-19
+DEF-071,3,S3,Closed,Parts Integration,Parts reservation not released on cancellation,2026-10-12,2026-10-17
+DEF-072,2,S3,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-10-15,2026-10-24
+DEF-073,2,S3,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-10-15,2026-10-22
+DEF-074,2,S3,Closed,Mobile App,Offline sync loses photos on reconnect,2026-10-15,2026-10-25
+DEF-075,3,S2,Closed,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-10-15,2026-10-27
+DEF-076,3,S3,Closed,SSO & Access,Depot supervisor role can edit closed tickets,2026-10-16,2026-10-23
+DEF-077,3,S4,Closed,Reporting,First-time-fix KPI counts cancelled tickets,2026-10-16,2026-10-24
+DEF-078,3,S4,Closed,Dispatch & Scheduling,Auto-dispatch skips on-call technicians,2026-10-17,2026-10-28
+DEF-079,3,S3,Closed,SSO & Access,SSO session expires during long site visits,2026-10-18,2026-10-27
+DEF-080,3,S3,Open,ERP Billing Integration,Billing message rejected for customers without tax ID,2026-10-18,
+DEF-081,3,S4,Open,Customer & Asset Data,Customer contact missing on site record,2026-10-19,
+DEF-082,3,S4,Closed,SSO & Access,Depot supervisor role can edit closed tickets,2026-10-20,2026-10-31
+DEF-083,3,S3,Closed,ERP Billing Integration,Labor hours rounded incorrectly on invoice,2026-10-21,2026-10-23
+DEF-084,3,S4,In Progress,Parts Integration,Stock level sync delayed by 2 hours,2026-10-22,
+DEF-085,3,S4,Fixed - Retest,Reporting,First-time-fix KPI counts cancelled tickets,2026-10-23,
+DEF-086,3,S3,Closed,Customer & Asset Data,Customer contact missing on site record,2026-10-24,2026-10-27
+DEF-087,3,S2,Open,Data Migration,Legacy status code not mapped,2026-10-26,
+DEF-088,3,S1,Closed,ERP Billing Integration,Labor hours rounded incorrectly on invoice,2026-10-27,2026-11-07
+DEF-089,3,S1,Closed,Reporting,First-time-fix KPI counts cancelled tickets,2026-10-27,2026-10-28
+DEF-090,3,S2,Closed,Data Migration,Legacy status code not mapped,2026-10-27,2026-11-03
+DEF-091,3,S4,Closed,Parts Integration,Stock level sync delayed by 2 hours,2026-10-27,2026-11-08
+DEF-092,2,S3,Fixed - Retest,Data Migration,Closed date dropped for tickets closed on weekends,2026-10-28,
+DEF-093,3,S4,Closed,Parts Integration,Parts reservation not released on cancellation,2026-10-30,2026-11-03
+DEF-094,3,S4,Closed,ERP Billing Integration,Labor hours rounded incorrectly on invoice,2026-10-30,2026-11-05
+DEF-095,3,S2,Fixed - Retest,Mobile App,Signature capture fails on older tablets,2026-10-31,
+DEF-096,3,S3,Closed,Work Orders,Work order cannot be reassigned after parts request,2026-10-31,2026-11-02
+DEF-097,4,S2,Fixed - Retest,ERP Billing Integration,Labor hours rounded incorrectly on invoice,2026-11-02,
+DEF-098,4,S3,Closed,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-11-02,2026-11-12
+DEF-099,4,S2,Open,Data Migration,Legacy status code not mapped,2026-11-03,
+DEF-100,3,S1,In Progress,Data Migration,Open tickets dropped when legacy depot code has a trailing space,2026-11-04,
+DEF-101,3,S4,In Progress,SLA Management,SLA clock does not pause when ticket is On Hold,2026-11-05,
+DEF-102,4,S2,Open,Dispatch & Scheduling,Auto-dispatch skips on-call technicians,2026-11-05,
+DEF-103,4,S3,Closed,Data Migration,Closed date dropped for tickets closed on weekends,2026-11-05,2026-11-11
+DEF-104,4,S1,Open,Dispatch & Scheduling,Technician calendar ignores depot time zone,2026-11-06,
+DEF-105,4,S3,In Progress,ERP Billing Integration,Billing message rejected for customers without tax ID,2026-11-06,
+DEF-106,3,S3,Open,SLA Management,P1 escalation email not sent,2026-11-07,
+DEF-107,3,S3,Open,Work Orders,Work order cannot be reassigned after parts request,2026-11-07,
+DEF-108,4,S4,In Progress,Mobile App,Signature capture fails on older tablets,2026-11-07,
+DEF-109,3,S3,Fixed - Retest,Work Orders,Duplicate work order created on save,2026-11-08,
+DEF-110,4,S4,Fixed - Retest,Work Orders,Duplicate work order created on save,2026-11-08,
+DEF-111,4,S4,Fixed - Retest,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-11-08,
+DEF-112,3,S1,Open,ERP Billing Integration,Invoices not created for work orders closed after migration,2026-11-09,
+DEF-113,3,S3,In Progress,Mobile App,Offline sync loses photos on reconnect,2026-11-09,
+DEF-114,4,S3,In Progress,SSO & Access,Depot supervisor role can edit closed tickets,2026-11-09,
+DEF-115,4,S3,Fixed - Retest,SSO & Access,Depot supervisor role can edit closed tickets,2026-11-09,
+DEF-116,4,S4,Open,Work Orders,Work order cannot be reassigned after parts request,2026-11-09,
+DEF-117,3,S3,Open,Reporting,First-time-fix KPI counts cancelled tickets,2026-11-10,
+DEF-118,4,S3,Fixed - Retest,Customer & Asset Data,Customer contact missing on site record,2026-11-10,
+DEF-119,4,S4,Open,Parts Integration,Parts reservation not released on cancellation,2026-11-11,
+DEF-120,3,S4,In Progress,Customer & Asset Data,Asset serial numbers truncated at 20 characters,2026-11-12,

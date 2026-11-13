@@ -1,0 +1,1281 @@
+test_id,wave,test_type,module,status,executed_date
+TC-W1-SIT-001,1,SIT,Work Orders,Passed,2026-08-08
+TC-W1-SIT-002,1,SIT,Dispatch & Scheduling,Passed,2026-07-30
+TC-W1-SIT-003,1,SIT,Mobile App,Passed,2026-08-16
+TC-W1-SIT-004,1,SIT,SLA Management,Passed,2026-08-20
+TC-W1-SIT-005,1,SIT,Customer & Asset Data,Passed,2026-07-27
+TC-W1-SIT-006,1,SIT,Data Migration,Passed,2026-07-21
+TC-W1-SIT-007,1,SIT,ERP Billing Integration,Passed,2026-07-31
+TC-W1-SIT-008,1,SIT,Parts Integration,Passed,2026-08-05
+TC-W1-SIT-009,1,SIT,SSO & Access,Passed,2026-08-16
+TC-W1-SIT-010,1,SIT,Reporting,Passed,2026-08-09
+TC-W1-SIT-011,1,SIT,Work Orders,Passed,2026-08-16
+TC-W1-SIT-012,1,SIT,Dispatch & Scheduling,Passed,2026-08-09
+TC-W1-SIT-013,1,SIT,Mobile App,Passed,2026-08-01
+TC-W1-SIT-014,1,SIT,SLA Management,Passed,2026-08-07
+TC-W1-SIT-015,1,SIT,Customer & Asset Data,Passed,2026-07-31
+TC-W1-SIT-016,1,SIT,Data Migration,Passed,2026-08-01
+TC-W1-SIT-017,1,SIT,ERP Billing Integration,Passed,2026-08-02
+TC-W1-SIT-018,1,SIT,Parts Integration,Passed,2026-07-20
+TC-W1-SIT-019,1,SIT,SSO & Access,Passed,2026-07-24
+TC-W1-SIT-020,1,SIT,Reporting,Failed,2026-08-05
+TC-W1-SIT-021,1,SIT,Work Orders,Passed,2026-07-29
+TC-W1-SIT-022,1,SIT,Dispatch & Scheduling,Passed,2026-07-27
+TC-W1-SIT-023,1,SIT,Mobile App,Passed,2026-08-05
+TC-W1-SIT-024,1,SIT,SLA Management,Passed,2026-08-04
+TC-W1-SIT-025,1,SIT,Customer & Asset Data,Passed,2026-08-07
+TC-W1-SIT-026,1,SIT,Data Migration,Passed,2026-08-11
+TC-W1-SIT-027,1,SIT,ERP Billing Integration,Passed,2026-08-09
+TC-W1-SIT-028,1,SIT,Parts Integration,Passed,2026-07-31
+TC-W1-SIT-029,1,SIT,SSO & Access,Passed,2026-08-04
+TC-W1-SIT-030,1,SIT,Reporting,Failed,2026-08-12
+TC-W1-SIT-031,1,SIT,Work Orders,Failed,2026-08-14
+TC-W1-SIT-032,1,SIT,Dispatch & Scheduling,Passed,2026-08-10
+TC-W1-SIT-033,1,SIT,Mobile App,Passed,2026-08-08
+TC-W1-SIT-034,1,SIT,SLA Management,Passed,2026-07-24
+TC-W1-SIT-035,1,SIT,Customer & Asset Data,Passed,2026-08-13
+TC-W1-SIT-036,1,SIT,Data Migration,Passed,2026-08-11
+TC-W1-SIT-037,1,SIT,ERP Billing Integration,Passed,2026-08-09
+TC-W1-SIT-038,1,SIT,Parts Integration,Passed,2026-08-10
+TC-W1-SIT-039,1,SIT,SSO & Access,Passed,2026-08-16
+TC-W1-SIT-040,1,SIT,Reporting,Passed,2026-07-29
+TC-W1-SIT-041,1,SIT,Work Orders,Passed,2026-07-20
+TC-W1-SIT-042,1,SIT,Dispatch & Scheduling,Passed,2026-08-16
+TC-W1-SIT-043,1,SIT,Mobile App,Passed,2026-08-16
+TC-W1-SIT-044,1,SIT,SLA Management,Passed,2026-08-15
+TC-W1-SIT-045,1,SIT,Customer & Asset Data,Passed,2026-08-05
+TC-W1-SIT-046,1,SIT,Data Migration,Passed,2026-07-20
+TC-W1-SIT-047,1,SIT,ERP Billing Integration,Passed,2026-08-17
+TC-W1-SIT-048,1,SIT,Parts Integration,Passed,2026-08-19
+TC-W1-SIT-049,1,SIT,SSO & Access,Passed,2026-08-14
+TC-W1-SIT-050,1,SIT,Reporting,Passed,2026-08-03
+TC-W1-SIT-051,1,SIT,Work Orders,Passed,2026-07-22
+TC-W1-SIT-052,1,SIT,Dispatch & Scheduling,Passed,2026-07-25
+TC-W1-SIT-053,1,SIT,Mobile App,Passed,2026-08-20
+TC-W1-SIT-054,1,SIT,SLA Management,Passed,2026-07-31
+TC-W1-SIT-055,1,SIT,Customer & Asset Data,Passed,2026-08-01
+TC-W1-SIT-056,1,SIT,Data Migration,Passed,2026-07-25
+TC-W1-SIT-057,1,SIT,ERP Billing Integration,Passed,2026-08-08
+TC-W1-SIT-058,1,SIT,Parts Integration,Passed,2026-07-29
+TC-W1-SIT-059,1,SIT,SSO & Access,Passed,2026-07-29
+TC-W1-SIT-060,1,SIT,Reporting,Passed,2026-08-18
+TC-W1-SIT-061,1,SIT,Work Orders,Passed,2026-08-07
+TC-W1-SIT-062,1,SIT,Dispatch & Scheduling,Passed,2026-07-29
+TC-W1-SIT-063,1,SIT,Mobile App,Passed,2026-08-19
+TC-W1-SIT-064,1,SIT,SLA Management,Passed,2026-08-04
+TC-W1-SIT-065,1,SIT,Customer & Asset Data,Passed,2026-08-06
+TC-W1-SIT-066,1,SIT,Data Migration,Failed,2026-08-13
+TC-W1-SIT-067,1,SIT,ERP Billing Integration,Passed,2026-07-24
+TC-W1-SIT-068,1,SIT,Parts Integration,Passed,2026-08-12
+TC-W1-SIT-069,1,SIT,SSO & Access,Passed,2026-08-12
+TC-W1-SIT-070,1,SIT,Reporting,Passed,2026-07-31
+TC-W1-SIT-071,1,SIT,Work Orders,Passed,2026-08-13
+TC-W1-SIT-072,1,SIT,Dispatch & Scheduling,Passed,2026-08-15
+TC-W1-SIT-073,1,SIT,Mobile App,Passed,2026-08-05
+TC-W1-SIT-074,1,SIT,SLA Management,Passed,2026-07-25
+TC-W1-SIT-075,1,SIT,Customer & Asset Data,Passed,2026-07-29
+TC-W1-SIT-076,1,SIT,Data Migration,Passed,2026-07-31
+TC-W1-SIT-077,1,SIT,ERP Billing Integration,Passed,2026-08-12
+TC-W1-SIT-078,1,SIT,Parts Integration,Passed,2026-07-26
+TC-W1-SIT-079,1,SIT,SSO & Access,Passed,2026-08-04
+TC-W1-SIT-080,1,SIT,Reporting,Passed,2026-08-16
+TC-W1-SIT-081,1,SIT,Work Orders,Passed,2026-08-05
+TC-W1-SIT-082,1,SIT,Dispatch & Scheduling,Passed,2026-08-04
+TC-W1-SIT-083,1,SIT,Mobile App,Passed,2026-07-29
+TC-W1-SIT-084,1,SIT,SLA Management,Passed,2026-08-16
+TC-W1-SIT-085,1,SIT,Customer & Asset Data,Passed,2026-07-27
+TC-W1-SIT-086,1,SIT,Data Migration,Passed,2026-07-31
+TC-W1-SIT-087,1,SIT,ERP Billing Integration,Passed,2026-07-31
+TC-W1-SIT-088,1,SIT,Parts Integration,Passed,2026-07-25
+TC-W1-SIT-089,1,SIT,SSO & Access,Passed,2026-07-21
+TC-W1-SIT-090,1,SIT,Reporting,Passed,2026-08-01
+TC-W1-SIT-091,1,SIT,Work Orders,Passed,2026-08-02
+TC-W1-SIT-092,1,SIT,Dispatch & Scheduling,Passed,2026-07-24
+TC-W1-SIT-093,1,SIT,Mobile App,Passed,2026-08-07
+TC-W1-SIT-094,1,SIT,SLA Management,Passed,2026-07-26
+TC-W1-SIT-095,1,SIT,Customer & Asset Data,Passed,2026-08-15
+TC-W1-SIT-096,1,SIT,Data Migration,Passed,2026-07-27
+TC-W1-SIT-097,1,SIT,ERP Billing Integration,Passed,2026-08-21
+TC-W1-SIT-098,1,SIT,Parts Integration,Passed,2026-07-29
+TC-W1-SIT-099,1,SIT,SSO & Access,Passed,2026-08-11
+TC-W1-SIT-100,1,SIT,Reporting,Passed,2026-08-13
+TC-W1-SIT-101,1,SIT,Work Orders,Passed,2026-07-27
+TC-W1-SIT-102,1,SIT,Dispatch & Scheduling,Passed,2026-07-29
+TC-W1-SIT-103,1,SIT,Mobile App,Passed,2026-07-24
+TC-W1-SIT-104,1,SIT,SLA Management,Passed,2026-08-04
+TC-W1-SIT-105,1,SIT,Customer & Asset Data,Passed,2026-08-11
+TC-W1-SIT-106,1,SIT,Data Migration,Passed,2026-08-15
+TC-W1-SIT-107,1,SIT,ERP Billing Integration,Passed,2026-08-18
+TC-W1-SIT-108,1,SIT,Parts Integration,Passed,2026-08-20
+TC-W1-SIT-109,1,SIT,SSO & Access,Passed,2026-08-11
+TC-W1-SIT-110,1,SIT,Reporting,Passed,2026-08-05
+TC-W1-SIT-111,1,SIT,Work Orders,Passed,2026-08-05
+TC-W1-SIT-112,1,SIT,Dispatch & Scheduling,Passed,2026-07-24
+TC-W1-SIT-113,1,SIT,Mobile App,Passed,2026-08-21
+TC-W1-SIT-114,1,SIT,SLA Management,Passed,2026-08-06
+TC-W1-SIT-115,1,SIT,Customer & Asset Data,Passed,2026-08-05
+TC-W1-SIT-116,1,SIT,Data Migration,Passed,2026-08-04
+TC-W1-SIT-117,1,SIT,ERP Billing Integration,Passed,2026-08-08
+TC-W1-SIT-118,1,SIT,Parts Integration,Passed,2026-08-16
+TC-W1-SIT-119,1,SIT,SSO & Access,Passed,2026-07-29
+TC-W1-SIT-120,1,SIT,Reporting,Passed,2026-08-08
+TC-W1-UAT-001,1,UAT,Work Orders,Passed,2026-09-07
+TC-W1-UAT-002,1,UAT,Dispatch & Scheduling,Failed,2026-09-12
+TC-W1-UAT-003,1,UAT,Mobile App,Passed,2026-08-29
+TC-W1-UAT-004,1,UAT,SLA Management,Passed,2026-08-26
+TC-W1-UAT-005,1,UAT,Customer & Asset Data,Failed,2026-09-13
+TC-W1-UAT-006,1,UAT,Data Migration,Passed,2026-09-08
+TC-W1-UAT-007,1,UAT,ERP Billing Integration,Passed,2026-08-29
+TC-W1-UAT-008,1,UAT,Parts Integration,Passed,2026-08-31
+TC-W1-UAT-009,1,UAT,SSO & Access,Passed,2026-08-28
+TC-W1-UAT-010,1,UAT,Reporting,Passed,2026-09-09
+TC-W1-UAT-011,1,UAT,Work Orders,Passed,2026-09-07
+TC-W1-UAT-012,1,UAT,Dispatch & Scheduling,Passed,2026-09-02
+TC-W1-UAT-013,1,UAT,Mobile App,Passed,2026-09-01
+TC-W1-UAT-014,1,UAT,SLA Management,Passed,2026-09-03
+TC-W1-UAT-015,1,UAT,Customer & Asset Data,Passed,2026-09-08
+TC-W1-UAT-016,1,UAT,Data Migration,Passed,2026-08-30
+TC-W1-UAT-017,1,UAT,ERP Billing Integration,Passed,2026-08-31
+TC-W1-UAT-018,1,UAT,Parts Integration,Passed,2026-09-02
+TC-W1-UAT-019,1,UAT,SSO & Access,Passed,2026-08-25
+TC-W1-UAT-020,1,UAT,Reporting,Passed,2026-08-26
+TC-W1-UAT-021,1,UAT,Work Orders,Passed,2026-08-26
+TC-W1-UAT-022,1,UAT,Dispatch & Scheduling,Passed,2026-08-31
+TC-W1-UAT-023,1,UAT,Mobile App,Passed,2026-09-18
+TC-W1-UAT-024,1,UAT,SLA Management,Passed,2026-09-08
+TC-W1-UAT-025,1,UAT,Customer & Asset Data,Passed,2026-08-27
+TC-W1-UAT-026,1,UAT,Data Migration,Passed,2026-09-05
+TC-W1-UAT-027,1,UAT,ERP Billing Integration,Passed,2026-08-24
+TC-W1-UAT-028,1,UAT,Parts Integration,Passed,2026-09-14
+TC-W1-UAT-029,1,UAT,SSO & Access,Passed,2026-08-27
+TC-W1-UAT-030,1,UAT,Reporting,Passed,2026-09-02
+TC-W1-UAT-031,1,UAT,Work Orders,Passed,2026-09-12
+TC-W1-UAT-032,1,UAT,Dispatch & Scheduling,Passed,2026-09-18
+TC-W1-UAT-033,1,UAT,Mobile App,Passed,2026-09-08
+TC-W1-UAT-034,1,UAT,SLA Management,Passed,2026-09-12
+TC-W1-UAT-035,1,UAT,Customer & Asset Data,Passed,2026-08-25
+TC-W1-UAT-036,1,UAT,Data Migration,Passed,2026-08-25
+TC-W1-UAT-037,1,UAT,ERP Billing Integration,Passed,2026-09-08
+TC-W1-UAT-038,1,UAT,Parts Integration,Passed,2026-09-07
+TC-W1-UAT-039,1,UAT,SSO & Access,Passed,2026-09-16
+TC-W1-UAT-040,1,UAT,Reporting,Passed,2026-09-04
+TC-W1-UAT-041,1,UAT,Work Orders,Passed,2026-09-15
+TC-W1-UAT-042,1,UAT,Dispatch & Scheduling,Passed,2026-08-31
+TC-W1-UAT-043,1,UAT,Mobile App,Passed,2026-09-17
+TC-W1-UAT-044,1,UAT,SLA Management,Failed,2026-09-14
+TC-W1-UAT-045,1,UAT,Customer & Asset Data,Passed,2026-08-24
+TC-W1-UAT-046,1,UAT,Data Migration,Passed,2026-09-15
+TC-W1-UAT-047,1,UAT,ERP Billing Integration,Passed,2026-09-14
+TC-W1-UAT-048,1,UAT,Parts Integration,Passed,2026-09-02
+TC-W1-UAT-049,1,UAT,SSO & Access,Passed,2026-08-25
+TC-W1-UAT-050,1,UAT,Reporting,Passed,2026-08-25
+TC-W1-UAT-051,1,UAT,Work Orders,Passed,2026-09-15
+TC-W1-UAT-052,1,UAT,Dispatch & Scheduling,Passed,2026-08-28
+TC-W1-UAT-053,1,UAT,Mobile App,Passed,2026-09-13
+TC-W1-UAT-054,1,UAT,SLA Management,Passed,2026-09-17
+TC-W1-UAT-055,1,UAT,Customer & Asset Data,Passed,2026-09-14
+TC-W1-UAT-056,1,UAT,Data Migration,Passed,2026-09-15
+TC-W1-UAT-057,1,UAT,ERP Billing Integration,Passed,2026-08-24
+TC-W1-UAT-058,1,UAT,Parts Integration,Passed,2026-09-17
+TC-W1-UAT-059,1,UAT,SSO & Access,Passed,2026-09-04
+TC-W1-UAT-060,1,UAT,Reporting,Passed,2026-09-09
+TC-W1-UAT-061,1,UAT,Work Orders,Passed,2026-08-31
+TC-W1-UAT-062,1,UAT,Dispatch & Scheduling,Passed,2026-08-25
+TC-W1-UAT-063,1,UAT,Mobile App,Passed,2026-09-15
+TC-W1-UAT-064,1,UAT,SLA Management,Passed,2026-09-09
+TC-W1-UAT-065,1,UAT,Customer & Asset Data,Passed,2026-08-28
+TC-W1-UAT-066,1,UAT,Data Migration,Passed,2026-09-13
+TC-W1-UAT-067,1,UAT,ERP Billing Integration,Passed,2026-09-18
+TC-W1-UAT-068,1,UAT,Parts Integration,Passed,2026-08-30
+TC-W1-UAT-069,1,UAT,SSO & Access,Passed,2026-09-09
+TC-W1-UAT-070,1,UAT,Reporting,Passed,2026-09-03
+TC-W1-UAT-071,1,UAT,Work Orders,Passed,2026-09-11
+TC-W1-UAT-072,1,UAT,Dispatch & Scheduling,Passed,2026-09-18
+TC-W1-UAT-073,1,UAT,Mobile App,Passed,2026-08-26
+TC-W1-UAT-074,1,UAT,SLA Management,Passed,2026-09-04
+TC-W1-UAT-075,1,UAT,Customer & Asset Data,Passed,2026-09-06
+TC-W1-UAT-076,1,UAT,Data Migration,Passed,2026-09-10
+TC-W1-UAT-077,1,UAT,ERP Billing Integration,Passed,2026-08-25
+TC-W1-UAT-078,1,UAT,Parts Integration,Passed,2026-08-31
+TC-W1-UAT-079,1,UAT,SSO & Access,Passed,2026-09-04
+TC-W1-UAT-080,1,UAT,Reporting,Passed,2026-08-26
+TC-W1-UAT-081,1,UAT,Work Orders,Passed,2026-09-07
+TC-W1-UAT-082,1,UAT,Dispatch & Scheduling,Passed,2026-09-15
+TC-W1-UAT-083,1,UAT,Mobile App,Passed,2026-08-29
+TC-W1-UAT-084,1,UAT,SLA Management,Passed,2026-08-26
+TC-W1-UAT-085,1,UAT,Customer & Asset Data,Passed,2026-09-04
+TC-W1-UAT-086,1,UAT,Data Migration,Passed,2026-09-08
+TC-W1-UAT-087,1,UAT,ERP Billing Integration,Passed,2026-09-15
+TC-W1-UAT-088,1,UAT,Parts Integration,Passed,2026-09-14
+TC-W1-UAT-089,1,UAT,SSO & Access,Passed,2026-09-15
+TC-W1-UAT-090,1,UAT,Reporting,Passed,2026-09-18
+TC-W1-UAT-091,1,UAT,Work Orders,Passed,2026-09-08
+TC-W1-UAT-092,1,UAT,Dispatch & Scheduling,Passed,2026-09-18
+TC-W1-UAT-093,1,UAT,Mobile App,Passed,2026-09-06
+TC-W1-UAT-094,1,UAT,SLA Management,Passed,2026-09-14
+TC-W1-UAT-095,1,UAT,Customer & Asset Data,Passed,2026-09-04
+TC-W1-UAT-096,1,UAT,Data Migration,Passed,2026-09-12
+TC-W1-UAT-097,1,UAT,ERP Billing Integration,Passed,2026-09-17
+TC-W1-UAT-098,1,UAT,Parts Integration,Passed,2026-08-29
+TC-W1-UAT-099,1,UAT,SSO & Access,Passed,2026-09-11
+TC-W1-UAT-100,1,UAT,Reporting,Passed,2026-09-11
+TC-W1-UAT-101,1,UAT,Work Orders,Passed,2026-08-28
+TC-W1-UAT-102,1,UAT,Dispatch & Scheduling,Passed,2026-08-26
+TC-W1-UAT-103,1,UAT,Mobile App,Passed,2026-09-13
+TC-W1-UAT-104,1,UAT,SLA Management,Failed,2026-09-17
+TC-W1-UAT-105,1,UAT,Customer & Asset Data,Passed,2026-09-06
+TC-W1-UAT-106,1,UAT,Data Migration,Passed,2026-09-04
+TC-W1-UAT-107,1,UAT,ERP Billing Integration,Passed,2026-08-25
+TC-W1-UAT-108,1,UAT,Parts Integration,Passed,2026-09-16
+TC-W1-UAT-109,1,UAT,SSO & Access,Passed,2026-09-14
+TC-W1-UAT-110,1,UAT,Reporting,Passed,2026-08-25
+TC-W1-UAT-111,1,UAT,Work Orders,Passed,2026-08-30
+TC-W1-UAT-112,1,UAT,Dispatch & Scheduling,Passed,2026-08-31
+TC-W1-UAT-113,1,UAT,Mobile App,Passed,2026-09-13
+TC-W1-UAT-114,1,UAT,SLA Management,Passed,2026-09-06
+TC-W1-UAT-115,1,UAT,Customer & Asset Data,Passed,2026-09-16
+TC-W1-UAT-116,1,UAT,Data Migration,Passed,2026-09-11
+TC-W1-UAT-117,1,UAT,ERP Billing Integration,Passed,2026-09-04
+TC-W1-UAT-118,1,UAT,Parts Integration,Passed,2026-09-10
+TC-W1-UAT-119,1,UAT,SSO & Access,Passed,2026-08-25
+TC-W1-UAT-120,1,UAT,Reporting,Passed,2026-09-12
+TC-W1-UAT-121,1,UAT,Work Orders,Passed,2026-08-24
+TC-W1-UAT-122,1,UAT,Dispatch & Scheduling,Passed,2026-08-27
+TC-W1-UAT-123,1,UAT,Mobile App,Passed,2026-09-01
+TC-W1-UAT-124,1,UAT,SLA Management,Failed,2026-09-08
+TC-W1-UAT-125,1,UAT,Customer & Asset Data,Passed,2026-09-02
+TC-W1-UAT-126,1,UAT,Data Migration,Passed,2026-08-27
+TC-W1-UAT-127,1,UAT,ERP Billing Integration,Passed,2026-08-31
+TC-W1-UAT-128,1,UAT,Parts Integration,Passed,2026-09-18
+TC-W1-UAT-129,1,UAT,SSO & Access,Passed,2026-09-09
+TC-W1-UAT-130,1,UAT,Reporting,Passed,2026-09-08
+TC-W1-UAT-131,1,UAT,Work Orders,Passed,2026-08-30
+TC-W1-UAT-132,1,UAT,Dispatch & Scheduling,Passed,2026-09-15
+TC-W1-UAT-133,1,UAT,Mobile App,Passed,2026-09-09
+TC-W1-UAT-134,1,UAT,SLA Management,Passed,2026-08-26
+TC-W1-UAT-135,1,UAT,Customer & Asset Data,Passed,2026-09-15
+TC-W1-UAT-136,1,UAT,Data Migration,Passed,2026-09-03
+TC-W1-UAT-137,1,UAT,ERP Billing Integration,Failed,2026-09-03
+TC-W1-UAT-138,1,UAT,Parts Integration,Passed,2026-09-09
+TC-W1-UAT-139,1,UAT,SSO & Access,Passed,2026-09-11
+TC-W1-UAT-140,1,UAT,Reporting,Passed,2026-09-08
+TC-W1-UAT-141,1,UAT,Work Orders,Passed,2026-08-29
+TC-W1-UAT-142,1,UAT,Dispatch & Scheduling,Passed,2026-08-26
+TC-W1-UAT-143,1,UAT,Mobile App,Passed,2026-09-02
+TC-W1-UAT-144,1,UAT,SLA Management,Passed,2026-08-31
+TC-W1-UAT-145,1,UAT,Customer & Asset Data,Passed,2026-09-11
+TC-W1-UAT-146,1,UAT,Data Migration,Passed,2026-08-24
+TC-W1-UAT-147,1,UAT,ERP Billing Integration,Passed,2026-09-07
+TC-W1-UAT-148,1,UAT,Parts Integration,Passed,2026-08-27
+TC-W1-UAT-149,1,UAT,SSO & Access,Passed,2026-09-01
+TC-W1-UAT-150,1,UAT,Reporting,Passed,2026-09-05
+TC-W1-UAT-151,1,UAT,Work Orders,Passed,2026-08-29
+TC-W1-UAT-152,1,UAT,Dispatch & Scheduling,Passed,2026-09-02
+TC-W1-UAT-153,1,UAT,Mobile App,Passed,2026-09-17
+TC-W1-UAT-154,1,UAT,SLA Management,Passed,2026-08-26
+TC-W1-UAT-155,1,UAT,Customer & Asset Data,Passed,2026-08-24
+TC-W1-UAT-156,1,UAT,Data Migration,Passed,2026-09-16
+TC-W1-UAT-157,1,UAT,ERP Billing Integration,Passed,2026-09-09
+TC-W1-UAT-158,1,UAT,Parts Integration,Passed,2026-09-18
+TC-W1-UAT-159,1,UAT,SSO & Access,Passed,2026-08-28
+TC-W1-UAT-160,1,UAT,Reporting,Passed,2026-09-18
+TC-W1-UAT-161,1,UAT,Work Orders,Passed,2026-08-29
+TC-W1-UAT-162,1,UAT,Dispatch & Scheduling,Passed,2026-09-18
+TC-W1-UAT-163,1,UAT,Mobile App,Passed,2026-09-03
+TC-W1-UAT-164,1,UAT,SLA Management,Passed,2026-09-07
+TC-W1-UAT-165,1,UAT,Customer & Asset Data,Passed,2026-09-02
+TC-W1-UAT-166,1,UAT,Data Migration,Passed,2026-09-13
+TC-W1-UAT-167,1,UAT,ERP Billing Integration,Passed,2026-09-17
+TC-W1-UAT-168,1,UAT,Parts Integration,Passed,2026-09-10
+TC-W1-UAT-169,1,UAT,SSO & Access,Passed,2026-08-25
+TC-W1-UAT-170,1,UAT,Reporting,Passed,2026-09-03
+TC-W1-UAT-171,1,UAT,Work Orders,Passed,2026-09-06
+TC-W1-UAT-172,1,UAT,Dispatch & Scheduling,Passed,2026-09-14
+TC-W1-UAT-173,1,UAT,Mobile App,Passed,2026-09-16
+TC-W1-UAT-174,1,UAT,SLA Management,Passed,2026-09-15
+TC-W1-UAT-175,1,UAT,Customer & Asset Data,Passed,2026-09-03
+TC-W1-UAT-176,1,UAT,Data Migration,Passed,2026-09-08
+TC-W1-UAT-177,1,UAT,ERP Billing Integration,Passed,2026-09-07
+TC-W1-UAT-178,1,UAT,Parts Integration,Passed,2026-09-05
+TC-W1-UAT-179,1,UAT,SSO & Access,Passed,2026-09-15
+TC-W1-UAT-180,1,UAT,Reporting,Passed,2026-09-07
+TC-W1-UAT-181,1,UAT,Work Orders,Passed,2026-09-04
+TC-W1-UAT-182,1,UAT,Dispatch & Scheduling,Passed,2026-09-02
+TC-W1-UAT-183,1,UAT,Mobile App,Passed,2026-09-12
+TC-W1-UAT-184,1,UAT,SLA Management,Passed,2026-09-04
+TC-W1-UAT-185,1,UAT,Customer & Asset Data,Passed,2026-09-17
+TC-W1-UAT-186,1,UAT,Data Migration,Passed,2026-09-14
+TC-W1-UAT-187,1,UAT,ERP Billing Integration,Passed,2026-09-10
+TC-W1-UAT-188,1,UAT,Parts Integration,Passed,2026-08-24
+TC-W1-UAT-189,1,UAT,SSO & Access,Passed,2026-09-16
+TC-W1-UAT-190,1,UAT,Reporting,Passed,2026-09-05
+TC-W1-UAT-191,1,UAT,Work Orders,Passed,2026-09-16
+TC-W1-UAT-192,1,UAT,Dispatch & Scheduling,Passed,2026-09-12
+TC-W1-UAT-193,1,UAT,Mobile App,Passed,2026-08-29
+TC-W1-UAT-194,1,UAT,SLA Management,Passed,2026-08-25
+TC-W1-UAT-195,1,UAT,Customer & Asset Data,Passed,2026-08-31
+TC-W1-UAT-196,1,UAT,Data Migration,Passed,2026-09-04
+TC-W1-UAT-197,1,UAT,ERP Billing Integration,Passed,2026-08-31
+TC-W1-UAT-198,1,UAT,Parts Integration,Passed,2026-09-01
+TC-W1-UAT-199,1,UAT,SSO & Access,Passed,2026-09-17
+TC-W1-UAT-200,1,UAT,Reporting,Passed,2026-09-01
+TC-W2-SIT-001,2,SIT,Work Orders,Passed,2026-09-11
+TC-W2-SIT-002,2,SIT,Dispatch & Scheduling,Passed,2026-09-18
+TC-W2-SIT-003,2,SIT,Mobile App,Passed,2026-09-20
+TC-W2-SIT-004,2,SIT,SLA Management,Passed,2026-09-05
+TC-W2-SIT-005,2,SIT,Customer & Asset Data,Passed,2026-09-18
+TC-W2-SIT-006,2,SIT,Data Migration,Passed,2026-09-22
+TC-W2-SIT-007,2,SIT,ERP Billing Integration,Passed,2026-09-10
+TC-W2-SIT-008,2,SIT,Parts Integration,Passed,2026-09-07
+TC-W2-SIT-009,2,SIT,SSO & Access,Passed,2026-09-25
+TC-W2-SIT-010,2,SIT,Reporting,Passed,2026-09-12
+TC-W2-SIT-011,2,SIT,Work Orders,Passed,2026-09-11
+TC-W2-SIT-012,2,SIT,Dispatch & Scheduling,Passed,2026-09-18
+TC-W2-SIT-013,2,SIT,Mobile App,Passed,2026-09-21
+TC-W2-SIT-014,2,SIT,SLA Management,Passed,2026-09-21
+TC-W2-SIT-015,2,SIT,Customer & Asset Data,Passed,2026-09-07
+TC-W2-SIT-016,2,SIT,Data Migration,Passed,2026-09-22
+TC-W2-SIT-017,2,SIT,ERP Billing Integration,Passed,2026-09-04
+TC-W2-SIT-018,2,SIT,Parts Integration,Passed,2026-09-12
+TC-W2-SIT-019,2,SIT,SSO & Access,Passed,2026-09-11
+TC-W2-SIT-020,2,SIT,Reporting,Passed,2026-09-17
+TC-W2-SIT-021,2,SIT,Work Orders,Passed,2026-09-12
+TC-W2-SIT-022,2,SIT,Dispatch & Scheduling,Passed,2026-09-13
+TC-W2-SIT-023,2,SIT,Mobile App,Passed,2026-09-05
+TC-W2-SIT-024,2,SIT,SLA Management,Passed,2026-09-25
+TC-W2-SIT-025,2,SIT,Customer & Asset Data,Passed,2026-09-08
+TC-W2-SIT-026,2,SIT,Data Migration,Passed,2026-09-23
+TC-W2-SIT-027,2,SIT,ERP Billing Integration,Passed,2026-09-13
+TC-W2-SIT-028,2,SIT,Parts Integration,Passed,2026-09-03
+TC-W2-SIT-029,2,SIT,SSO & Access,Passed,2026-09-17
+TC-W2-SIT-030,2,SIT,Reporting,Passed,2026-08-31
+TC-W2-SIT-031,2,SIT,Work Orders,Passed,2026-09-23
+TC-W2-SIT-032,2,SIT,Dispatch & Scheduling,Passed,2026-09-01
+TC-W2-SIT-033,2,SIT,Mobile App,Passed,2026-09-05
+TC-W2-SIT-034,2,SIT,SLA Management,Passed,2026-09-19
+TC-W2-SIT-035,2,SIT,Customer & Asset Data,Passed,2026-09-16
+TC-W2-SIT-036,2,SIT,Data Migration,Passed,2026-09-03
+TC-W2-SIT-037,2,SIT,ERP Billing Integration,Passed,2026-09-23
+TC-W2-SIT-038,2,SIT,Parts Integration,Passed,2026-09-24
+TC-W2-SIT-039,2,SIT,SSO & Access,Passed,2026-09-05
+TC-W2-SIT-040,2,SIT,Reporting,Passed,2026-09-16
+TC-W2-SIT-041,2,SIT,Work Orders,Passed,2026-09-04
+TC-W2-SIT-042,2,SIT,Dispatch & Scheduling,Passed,2026-09-12
+TC-W2-SIT-043,2,SIT,Mobile App,Passed,2026-09-19
+TC-W2-SIT-044,2,SIT,SLA Management,Passed,2026-09-13
+TC-W2-SIT-045,2,SIT,Customer & Asset Data,Failed,2026-09-18
+TC-W2-SIT-046,2,SIT,Data Migration,Passed,2026-09-17
+TC-W2-SIT-047,2,SIT,ERP Billing Integration,Failed,2026-09-23
+TC-W2-SIT-048,2,SIT,Parts Integration,Passed,2026-08-31
+TC-W2-SIT-049,2,SIT,SSO & Access,Passed,2026-09-12
+TC-W2-SIT-050,2,SIT,Reporting,Passed,2026-09-13
+TC-W2-SIT-051,2,SIT,Work Orders,Passed,2026-09-07
+TC-W2-SIT-052,2,SIT,Dispatch & Scheduling,Failed,2026-09-21
+TC-W2-SIT-053,2,SIT,Mobile App,Passed,2026-09-15
+TC-W2-SIT-054,2,SIT,SLA Management,Passed,2026-09-02
+TC-W2-SIT-055,2,SIT,Customer & Asset Data,Passed,2026-09-16
+TC-W2-SIT-056,2,SIT,Data Migration,Passed,2026-08-31
+TC-W2-SIT-057,2,SIT,ERP Billing Integration,Passed,2026-09-23
+TC-W2-SIT-058,2,SIT,Parts Integration,Failed,2026-09-22
+TC-W2-SIT-059,2,SIT,SSO & Access,Passed,2026-09-16
+TC-W2-SIT-060,2,SIT,Reporting,Passed,2026-09-13
+TC-W2-SIT-061,2,SIT,Work Orders,Passed,2026-09-12
+TC-W2-SIT-062,2,SIT,Dispatch & Scheduling,Passed,2026-09-09
+TC-W2-SIT-063,2,SIT,Mobile App,Passed,2026-09-10
+TC-W2-SIT-064,2,SIT,SLA Management,Passed,2026-09-06
+TC-W2-SIT-065,2,SIT,Customer & Asset Data,Passed,2026-09-12
+TC-W2-SIT-066,2,SIT,Data Migration,Passed,2026-09-18
+TC-W2-SIT-067,2,SIT,ERP Billing Integration,Passed,2026-09-06
+TC-W2-SIT-068,2,SIT,Parts Integration,Passed,2026-09-02
+TC-W2-SIT-069,2,SIT,SSO & Access,Passed,2026-09-20
+TC-W2-SIT-070,2,SIT,Reporting,Passed,2026-09-15
+TC-W2-SIT-071,2,SIT,Work Orders,Failed,2026-09-04
+TC-W2-SIT-072,2,SIT,Dispatch & Scheduling,Passed,2026-09-19
+TC-W2-SIT-073,2,SIT,Mobile App,Passed,2026-09-02
+TC-W2-SIT-074,2,SIT,SLA Management,Passed,2026-09-05
+TC-W2-SIT-075,2,SIT,Customer & Asset Data,Passed,2026-09-18
+TC-W2-SIT-076,2,SIT,Data Migration,Passed,2026-09-19
+TC-W2-SIT-077,2,SIT,ERP Billing Integration,Passed,2026-09-10
+TC-W2-SIT-078,2,SIT,Parts Integration,Passed,2026-09-16
+TC-W2-SIT-079,2,SIT,SSO & Access,Passed,2026-09-22
+TC-W2-SIT-080,2,SIT,Reporting,Passed,2026-08-31
+TC-W2-SIT-081,2,SIT,Work Orders,Passed,2026-09-05
+TC-W2-SIT-082,2,SIT,Dispatch & Scheduling,Passed,2026-09-13
+TC-W2-SIT-083,2,SIT,Mobile App,Passed,2026-09-07
+TC-W2-SIT-084,2,SIT,SLA Management,Passed,2026-09-13
+TC-W2-SIT-085,2,SIT,Customer & Asset Data,Passed,2026-09-18
+TC-W2-SIT-086,2,SIT,Data Migration,Passed,2026-09-14
+TC-W2-SIT-087,2,SIT,ERP Billing Integration,Passed,2026-09-10
+TC-W2-SIT-088,2,SIT,Parts Integration,Passed,2026-09-02
+TC-W2-SIT-089,2,SIT,SSO & Access,Passed,2026-09-16
+TC-W2-SIT-090,2,SIT,Reporting,Passed,2026-09-20
+TC-W2-SIT-091,2,SIT,Work Orders,Passed,2026-09-25
+TC-W2-SIT-092,2,SIT,Dispatch & Scheduling,Passed,2026-09-09
+TC-W2-SIT-093,2,SIT,Mobile App,Passed,2026-09-01
+TC-W2-SIT-094,2,SIT,SLA Management,Passed,2026-09-16
+TC-W2-SIT-095,2,SIT,Customer & Asset Data,Passed,2026-09-23
+TC-W2-SIT-096,2,SIT,Data Migration,Passed,2026-09-19
+TC-W2-SIT-097,2,SIT,ERP Billing Integration,Passed,2026-09-24
+TC-W2-SIT-098,2,SIT,Parts Integration,Passed,2026-09-19
+TC-W2-SIT-099,2,SIT,SSO & Access,Passed,2026-09-14
+TC-W2-SIT-100,2,SIT,Reporting,Passed,2026-09-08
+TC-W2-SIT-101,2,SIT,Work Orders,Passed,2026-09-03
+TC-W2-SIT-102,2,SIT,Dispatch & Scheduling,Passed,2026-09-08
+TC-W2-SIT-103,2,SIT,Mobile App,Passed,2026-09-19
+TC-W2-SIT-104,2,SIT,SLA Management,Passed,2026-09-15
+TC-W2-SIT-105,2,SIT,Customer & Asset Data,Passed,2026-09-24
+TC-W2-SIT-106,2,SIT,Data Migration,Passed,2026-09-05
+TC-W2-SIT-107,2,SIT,ERP Billing Integration,Passed,2026-09-04
+TC-W2-SIT-108,2,SIT,Parts Integration,Passed,2026-09-23
+TC-W2-SIT-109,2,SIT,SSO & Access,Passed,2026-09-09
+TC-W2-SIT-110,2,SIT,Reporting,Passed,2026-09-06
+TC-W2-SIT-111,2,SIT,Work Orders,Passed,2026-09-11
+TC-W2-SIT-112,2,SIT,Dispatch & Scheduling,Passed,2026-09-09
+TC-W2-SIT-113,2,SIT,Mobile App,Passed,2026-09-13
+TC-W2-SIT-114,2,SIT,SLA Management,Passed,2026-09-20
+TC-W2-SIT-115,2,SIT,Customer & Asset Data,Passed,2026-09-05
+TC-W2-SIT-116,2,SIT,Data Migration,Passed,2026-09-08
+TC-W2-SIT-117,2,SIT,ERP Billing Integration,Passed,2026-09-19
+TC-W2-SIT-118,2,SIT,Parts Integration,Passed,2026-09-21
+TC-W2-SIT-119,2,SIT,SSO & Access,Passed,2026-09-14
+TC-W2-SIT-120,2,SIT,Reporting,Passed,2026-09-12
+TC-W2-UAT-001,2,UAT,Work Orders,Passed,2026-10-14
+TC-W2-UAT-002,2,UAT,Dispatch & Scheduling,Passed,2026-10-10
+TC-W2-UAT-003,2,UAT,Mobile App,Passed,2026-10-02
+TC-W2-UAT-004,2,UAT,SLA Management,Passed,2026-10-03
+TC-W2-UAT-005,2,UAT,Customer & Asset Data,Passed,2026-10-07
+TC-W2-UAT-006,2,UAT,Data Migration,Failed,2026-10-06
+TC-W2-UAT-007,2,UAT,ERP Billing Integration,Passed,2026-10-09
+TC-W2-UAT-008,2,UAT,Parts Integration,Passed,2026-10-12
+TC-W2-UAT-009,2,UAT,SSO & Access,Passed,2026-10-03
+TC-W2-UAT-010,2,UAT,Reporting,Failed,2026-10-03
+TC-W2-UAT-011,2,UAT,Work Orders,Passed,2026-09-29
+TC-W2-UAT-012,2,UAT,Dispatch & Scheduling,Passed,2026-10-15
+TC-W2-UAT-013,2,UAT,Mobile App,Passed,2026-10-06
+TC-W2-UAT-014,2,UAT,SLA Management,Passed,2026-09-30
+TC-W2-UAT-015,2,UAT,Customer & Asset Data,Passed,2026-09-28
+TC-W2-UAT-016,2,UAT,Data Migration,Passed,2026-10-01
+TC-W2-UAT-017,2,UAT,ERP Billing Integration,Passed,2026-09-30
+TC-W2-UAT-018,2,UAT,Parts Integration,Passed,2026-10-06
+TC-W2-UAT-019,2,UAT,SSO & Access,Passed,2026-10-02
+TC-W2-UAT-020,2,UAT,Reporting,Passed,2026-10-04
+TC-W2-UAT-021,2,UAT,Work Orders,Passed,2026-10-03
+TC-W2-UAT-022,2,UAT,Dispatch & Scheduling,Passed,2026-10-08
+TC-W2-UAT-023,2,UAT,Mobile App,Passed,2026-10-12
+TC-W2-UAT-024,2,UAT,SLA Management,Passed,2026-10-12
+TC-W2-UAT-025,2,UAT,Customer & Asset Data,Passed,2026-10-13
+TC-W2-UAT-026,2,UAT,Data Migration,Passed,2026-10-13
+TC-W2-UAT-027,2,UAT,ERP Billing Integration,Passed,2026-10-07
+TC-W2-UAT-028,2,UAT,Parts Integration,Passed,2026-10-01
+TC-W2-UAT-029,2,UAT,SSO & Access,Passed,2026-10-02
+TC-W2-UAT-030,2,UAT,Reporting,Passed,2026-10-10
+TC-W2-UAT-031,2,UAT,Work Orders,Passed,2026-10-13
+TC-W2-UAT-032,2,UAT,Dispatch & Scheduling,Passed,2026-10-10
+TC-W2-UAT-033,2,UAT,Mobile App,Passed,2026-10-06
+TC-W2-UAT-034,2,UAT,SLA Management,Failed,2026-10-02
+TC-W2-UAT-035,2,UAT,Customer & Asset Data,Passed,2026-10-02
+TC-W2-UAT-036,2,UAT,Data Migration,Passed,2026-10-10
+TC-W2-UAT-037,2,UAT,ERP Billing Integration,Passed,2026-10-10
+TC-W2-UAT-038,2,UAT,Parts Integration,Passed,2026-10-07
+TC-W2-UAT-039,2,UAT,SSO & Access,Passed,2026-10-13
+TC-W2-UAT-040,2,UAT,Reporting,Passed,2026-10-15
+TC-W2-UAT-041,2,UAT,Work Orders,Passed,2026-10-01
+TC-W2-UAT-042,2,UAT,Dispatch & Scheduling,Passed,2026-10-11
+TC-W2-UAT-043,2,UAT,Mobile App,Passed,2026-10-12
+TC-W2-UAT-044,2,UAT,SLA Management,Passed,2026-10-07
+TC-W2-UAT-045,2,UAT,Customer & Asset Data,Passed,2026-09-28
+TC-W2-UAT-046,2,UAT,Data Migration,Passed,2026-10-16
+TC-W2-UAT-047,2,UAT,ERP Billing Integration,Failed,2026-10-13
+TC-W2-UAT-048,2,UAT,Parts Integration,Blocked,
+TC-W2-UAT-049,2,UAT,SSO & Access,Passed,2026-10-03
+TC-W2-UAT-050,2,UAT,Reporting,Passed,2026-10-08
+TC-W2-UAT-051,2,UAT,Work Orders,Passed,2026-10-03
+TC-W2-UAT-052,2,UAT,Dispatch & Scheduling,Passed,2026-10-02
+TC-W2-UAT-053,2,UAT,Mobile App,Passed,2026-09-29
+TC-W2-UAT-054,2,UAT,SLA Management,Passed,2026-10-03
+TC-W2-UAT-055,2,UAT,Customer & Asset Data,Passed,2026-10-01
+TC-W2-UAT-056,2,UAT,Data Migration,Failed,2026-10-05
+TC-W2-UAT-057,2,UAT,ERP Billing Integration,Passed,2026-09-28
+TC-W2-UAT-058,2,UAT,Parts Integration,Passed,2026-10-08
+TC-W2-UAT-059,2,UAT,SSO & Access,Passed,2026-10-16
+TC-W2-UAT-060,2,UAT,Reporting,Passed,2026-10-04
+TC-W2-UAT-061,2,UAT,Work Orders,Passed,2026-10-15
+TC-W2-UAT-062,2,UAT,Dispatch & Scheduling,Passed,2026-10-15
+TC-W2-UAT-063,2,UAT,Mobile App,Passed,2026-10-14
+TC-W2-UAT-064,2,UAT,SLA Management,Passed,2026-10-01
+TC-W2-UAT-065,2,UAT,Customer & Asset Data,Passed,2026-10-08
+TC-W2-UAT-066,2,UAT,Data Migration,Passed,2026-10-12
+TC-W2-UAT-067,2,UAT,ERP Billing Integration,Passed,2026-10-04
+TC-W2-UAT-068,2,UAT,Parts Integration,Passed,2026-10-09
+TC-W2-UAT-069,2,UAT,SSO & Access,Passed,2026-10-05
+TC-W2-UAT-070,2,UAT,Reporting,Passed,2026-10-04
+TC-W2-UAT-071,2,UAT,Work Orders,Passed,2026-10-16
+TC-W2-UAT-072,2,UAT,Dispatch & Scheduling,Passed,2026-10-07
+TC-W2-UAT-073,2,UAT,Mobile App,Passed,2026-10-06
+TC-W2-UAT-074,2,UAT,SLA Management,Passed,2026-10-15
+TC-W2-UAT-075,2,UAT,Customer & Asset Data,Passed,2026-10-15
+TC-W2-UAT-076,2,UAT,Data Migration,Passed,2026-09-30
+TC-W2-UAT-077,2,UAT,ERP Billing Integration,Passed,2026-09-30
+TC-W2-UAT-078,2,UAT,Parts Integration,Passed,2026-10-13
+TC-W2-UAT-079,2,UAT,SSO & Access,Passed,2026-09-28
+TC-W2-UAT-080,2,UAT,Reporting,Passed,2026-09-29
+TC-W2-UAT-081,2,UAT,Work Orders,Passed,2026-09-28
+TC-W2-UAT-082,2,UAT,Dispatch & Scheduling,Passed,2026-10-01
+TC-W2-UAT-083,2,UAT,Mobile App,Passed,2026-10-07
+TC-W2-UAT-084,2,UAT,SLA Management,Passed,2026-10-04
+TC-W2-UAT-085,2,UAT,Customer & Asset Data,Passed,2026-10-08
+TC-W2-UAT-086,2,UAT,Data Migration,Passed,2026-10-02
+TC-W2-UAT-087,2,UAT,ERP Billing Integration,Passed,2026-10-01
+TC-W2-UAT-088,2,UAT,Parts Integration,Passed,2026-10-09
+TC-W2-UAT-089,2,UAT,SSO & Access,Passed,2026-10-06
+TC-W2-UAT-090,2,UAT,Reporting,Passed,2026-09-28
+TC-W2-UAT-091,2,UAT,Work Orders,Passed,2026-10-14
+TC-W2-UAT-092,2,UAT,Dispatch & Scheduling,Passed,2026-10-09
+TC-W2-UAT-093,2,UAT,Mobile App,Passed,2026-10-09
+TC-W2-UAT-094,2,UAT,SLA Management,Passed,2026-10-03
+TC-W2-UAT-095,2,UAT,Customer & Asset Data,Passed,2026-10-05
+TC-W2-UAT-096,2,UAT,Data Migration,Passed,2026-10-13
+TC-W2-UAT-097,2,UAT,ERP Billing Integration,Passed,2026-10-08
+TC-W2-UAT-098,2,UAT,Parts Integration,Passed,2026-10-06
+TC-W2-UAT-099,2,UAT,SSO & Access,Passed,2026-10-01
+TC-W2-UAT-100,2,UAT,Reporting,Passed,2026-10-05
+TC-W2-UAT-101,2,UAT,Work Orders,Passed,2026-10-03
+TC-W2-UAT-102,2,UAT,Dispatch & Scheduling,Passed,2026-10-02
+TC-W2-UAT-103,2,UAT,Mobile App,Passed,2026-10-05
+TC-W2-UAT-104,2,UAT,SLA Management,Passed,2026-10-09
+TC-W2-UAT-105,2,UAT,Customer & Asset Data,Passed,2026-10-10
+TC-W2-UAT-106,2,UAT,Data Migration,Passed,2026-10-06
+TC-W2-UAT-107,2,UAT,ERP Billing Integration,Passed,2026-09-28
+TC-W2-UAT-108,2,UAT,Parts Integration,Passed,2026-10-07
+TC-W2-UAT-109,2,UAT,SSO & Access,Passed,2026-10-14
+TC-W2-UAT-110,2,UAT,Reporting,Passed,2026-10-15
+TC-W2-UAT-111,2,UAT,Work Orders,Passed,2026-10-05
+TC-W2-UAT-112,2,UAT,Dispatch & Scheduling,Passed,2026-10-01
+TC-W2-UAT-113,2,UAT,Mobile App,Passed,2026-09-30
+TC-W2-UAT-114,2,UAT,SLA Management,Passed,2026-10-16
+TC-W2-UAT-115,2,UAT,Customer & Asset Data,Passed,2026-10-12
+TC-W2-UAT-116,2,UAT,Data Migration,Passed,2026-10-02
+TC-W2-UAT-117,2,UAT,ERP Billing Integration,Passed,2026-10-02
+TC-W2-UAT-118,2,UAT,Parts Integration,Passed,2026-10-02
+TC-W2-UAT-119,2,UAT,SSO & Access,Passed,2026-10-12
+TC-W2-UAT-120,2,UAT,Reporting,Passed,2026-10-10
+TC-W2-UAT-121,2,UAT,Work Orders,Passed,2026-10-04
+TC-W2-UAT-122,2,UAT,Dispatch & Scheduling,Passed,2026-10-13
+TC-W2-UAT-123,2,UAT,Mobile App,Passed,2026-10-11
+TC-W2-UAT-124,2,UAT,SLA Management,Passed,2026-10-07
+TC-W2-UAT-125,2,UAT,Customer & Asset Data,Passed,2026-10-06
+TC-W2-UAT-126,2,UAT,Data Migration,Passed,2026-10-08
+TC-W2-UAT-127,2,UAT,ERP Billing Integration,Passed,2026-10-10
+TC-W2-UAT-128,2,UAT,Parts Integration,Passed,2026-10-09
+TC-W2-UAT-129,2,UAT,SSO & Access,Passed,2026-10-11
+TC-W2-UAT-130,2,UAT,Reporting,Passed,2026-10-15
+TC-W2-UAT-131,2,UAT,Work Orders,Passed,2026-10-11
+TC-W2-UAT-132,2,UAT,Dispatch & Scheduling,Passed,2026-09-28
+TC-W2-UAT-133,2,UAT,Mobile App,Passed,2026-10-05
+TC-W2-UAT-134,2,UAT,SLA Management,Passed,2026-10-08
+TC-W2-UAT-135,2,UAT,Customer & Asset Data,Passed,2026-10-15
+TC-W2-UAT-136,2,UAT,Data Migration,Passed,2026-10-12
+TC-W2-UAT-137,2,UAT,ERP Billing Integration,Passed,2026-10-15
+TC-W2-UAT-138,2,UAT,Parts Integration,Passed,2026-09-30
+TC-W2-UAT-139,2,UAT,SSO & Access,Passed,2026-10-04
+TC-W2-UAT-140,2,UAT,Reporting,Passed,2026-10-07
+TC-W2-UAT-141,2,UAT,Work Orders,Passed,2026-09-29
+TC-W2-UAT-142,2,UAT,Dispatch & Scheduling,Passed,2026-10-13
+TC-W2-UAT-143,2,UAT,Mobile App,Passed,2026-10-08
+TC-W2-UAT-144,2,UAT,SLA Management,Passed,2026-10-07
+TC-W2-UAT-145,2,UAT,Customer & Asset Data,Passed,2026-10-01
+TC-W2-UAT-146,2,UAT,Data Migration,Passed,2026-10-16
+TC-W2-UAT-147,2,UAT,ERP Billing Integration,Passed,2026-10-16
+TC-W2-UAT-148,2,UAT,Parts Integration,Passed,2026-09-29
+TC-W2-UAT-149,2,UAT,SSO & Access,Passed,2026-10-03
+TC-W2-UAT-150,2,UAT,Reporting,Passed,2026-10-01
+TC-W2-UAT-151,2,UAT,Work Orders,Passed,2026-10-03
+TC-W2-UAT-152,2,UAT,Dispatch & Scheduling,Failed,2026-10-16
+TC-W2-UAT-153,2,UAT,Mobile App,Passed,2026-10-04
+TC-W2-UAT-154,2,UAT,SLA Management,Passed,2026-10-06
+TC-W2-UAT-155,2,UAT,Customer & Asset Data,Passed,2026-10-08
+TC-W2-UAT-156,2,UAT,Data Migration,Passed,2026-10-04
+TC-W2-UAT-157,2,UAT,ERP Billing Integration,Passed,2026-10-08
+TC-W2-UAT-158,2,UAT,Parts Integration,Passed,2026-10-12
+TC-W2-UAT-159,2,UAT,SSO & Access,Passed,2026-10-10
+TC-W2-UAT-160,2,UAT,Reporting,Passed,2026-10-16
+TC-W2-UAT-161,2,UAT,Work Orders,Passed,2026-10-05
+TC-W2-UAT-162,2,UAT,Dispatch & Scheduling,Passed,2026-10-04
+TC-W2-UAT-163,2,UAT,Mobile App,Passed,2026-10-11
+TC-W2-UAT-164,2,UAT,SLA Management,Passed,2026-09-29
+TC-W2-UAT-165,2,UAT,Customer & Asset Data,Passed,2026-10-12
+TC-W2-UAT-166,2,UAT,Data Migration,Passed,2026-10-03
+TC-W2-UAT-167,2,UAT,ERP Billing Integration,Passed,2026-10-05
+TC-W2-UAT-168,2,UAT,Parts Integration,Passed,2026-10-08
+TC-W2-UAT-169,2,UAT,SSO & Access,Passed,2026-09-29
+TC-W2-UAT-170,2,UAT,Reporting,Passed,2026-10-06
+TC-W2-UAT-171,2,UAT,Work Orders,Passed,2026-09-28
+TC-W2-UAT-172,2,UAT,Dispatch & Scheduling,Passed,2026-10-07
+TC-W2-UAT-173,2,UAT,Mobile App,Passed,2026-10-06
+TC-W2-UAT-174,2,UAT,SLA Management,Passed,2026-09-29
+TC-W2-UAT-175,2,UAT,Customer & Asset Data,Passed,2026-09-30
+TC-W2-UAT-176,2,UAT,Data Migration,Passed,2026-10-13
+TC-W2-UAT-177,2,UAT,ERP Billing Integration,Passed,2026-10-08
+TC-W2-UAT-178,2,UAT,Parts Integration,Passed,2026-10-07
+TC-W2-UAT-179,2,UAT,SSO & Access,Passed,2026-10-10
+TC-W2-UAT-180,2,UAT,Reporting,Passed,2026-10-16
+TC-W2-UAT-181,2,UAT,Work Orders,Passed,2026-10-13
+TC-W2-UAT-182,2,UAT,Dispatch & Scheduling,Passed,2026-10-05
+TC-W2-UAT-183,2,UAT,Mobile App,Passed,2026-10-12
+TC-W2-UAT-184,2,UAT,SLA Management,Passed,2026-10-14
+TC-W2-UAT-185,2,UAT,Customer & Asset Data,Passed,2026-10-06
+TC-W2-UAT-186,2,UAT,Data Migration,Passed,2026-10-04
+TC-W2-UAT-187,2,UAT,ERP Billing Integration,Failed,2026-10-15
+TC-W2-UAT-188,2,UAT,Parts Integration,Passed,2026-09-28
+TC-W2-UAT-189,2,UAT,SSO & Access,Passed,2026-10-04
+TC-W2-UAT-190,2,UAT,Reporting,Passed,2026-09-30
+TC-W2-UAT-191,2,UAT,Work Orders,Passed,2026-09-30
+TC-W2-UAT-192,2,UAT,Dispatch & Scheduling,Passed,2026-09-29
+TC-W2-UAT-193,2,UAT,Mobile App,Passed,2026-10-01
+TC-W2-UAT-194,2,UAT,SLA Management,Passed,2026-10-13
+TC-W2-UAT-195,2,UAT,Customer & Asset Data,Passed,2026-10-09
+TC-W2-UAT-196,2,UAT,Data Migration,Passed,2026-10-13
+TC-W2-UAT-197,2,UAT,ERP Billing Integration,Passed,2026-10-09
+TC-W2-UAT-198,2,UAT,Parts Integration,Passed,2026-10-14
+TC-W2-UAT-199,2,UAT,SSO & Access,Passed,2026-10-03
+TC-W2-UAT-200,2,UAT,Reporting,Passed,2026-10-02
+TC-W3-SIT-001,3,SIT,Work Orders,Passed,2026-10-10
+TC-W3-SIT-002,3,SIT,Dispatch & Scheduling,Passed,2026-09-30
+TC-W3-SIT-003,3,SIT,Mobile App,Passed,2026-10-05
+TC-W3-SIT-004,3,SIT,SLA Management,Passed,2026-10-10
+TC-W3-SIT-005,3,SIT,Customer & Asset Data,Passed,2026-10-19
+TC-W3-SIT-006,3,SIT,Data Migration,Passed,2026-10-22
+TC-W3-SIT-007,3,SIT,ERP Billing Integration,Passed,2026-10-14
+TC-W3-SIT-008,3,SIT,Parts Integration,Passed,2026-10-14
+TC-W3-SIT-009,3,SIT,SSO & Access,Passed,2026-10-12
+TC-W3-SIT-010,3,SIT,Reporting,Passed,2026-10-03
+TC-W3-SIT-011,3,SIT,Work Orders,Passed,2026-10-03
+TC-W3-SIT-012,3,SIT,Dispatch & Scheduling,Passed,2026-10-22
+TC-W3-SIT-013,3,SIT,Mobile App,Passed,2026-10-22
+TC-W3-SIT-014,3,SIT,SLA Management,Passed,2026-10-19
+TC-W3-SIT-015,3,SIT,Customer & Asset Data,Passed,2026-09-30
+TC-W3-SIT-016,3,SIT,Data Migration,Passed,2026-10-18
+TC-W3-SIT-017,3,SIT,ERP Billing Integration,Passed,2026-09-29
+TC-W3-SIT-018,3,SIT,Parts Integration,Passed,2026-10-22
+TC-W3-SIT-019,3,SIT,SSO & Access,Passed,2026-10-19
+TC-W3-SIT-020,3,SIT,Reporting,Passed,2026-10-23
+TC-W3-SIT-021,3,SIT,Work Orders,Passed,2026-10-14
+TC-W3-SIT-022,3,SIT,Dispatch & Scheduling,Passed,2026-10-11
+TC-W3-SIT-023,3,SIT,Mobile App,Passed,2026-10-07
+TC-W3-SIT-024,3,SIT,SLA Management,Passed,2026-10-12
+TC-W3-SIT-025,3,SIT,Customer & Asset Data,Passed,2026-10-16
+TC-W3-SIT-026,3,SIT,Data Migration,Failed,2026-09-30
+TC-W3-SIT-027,3,SIT,ERP Billing Integration,Failed,2026-10-18
+TC-W3-SIT-028,3,SIT,Parts Integration,Passed,2026-10-03
+TC-W3-SIT-029,3,SIT,SSO & Access,Passed,2026-10-22
+TC-W3-SIT-030,3,SIT,Reporting,Passed,2026-10-22
+TC-W3-SIT-031,3,SIT,Work Orders,Passed,2026-10-14
+TC-W3-SIT-032,3,SIT,Dispatch & Scheduling,Passed,2026-10-15
+TC-W3-SIT-033,3,SIT,Mobile App,Passed,2026-10-20
+TC-W3-SIT-034,3,SIT,SLA Management,Passed,2026-10-01
+TC-W3-SIT-035,3,SIT,Customer & Asset Data,Passed,2026-09-30
+TC-W3-SIT-036,3,SIT,Data Migration,Passed,2026-10-17
+TC-W3-SIT-037,3,SIT,ERP Billing Integration,Passed,2026-09-29
+TC-W3-SIT-038,3,SIT,Parts Integration,Passed,2026-10-15
+TC-W3-SIT-039,3,SIT,SSO & Access,Passed,2026-10-09
+TC-W3-SIT-040,3,SIT,Reporting,Failed,2026-10-03
+TC-W3-SIT-041,3,SIT,Work Orders,Passed,2026-10-08
+TC-W3-SIT-042,3,SIT,Dispatch & Scheduling,Passed,2026-09-29
+TC-W3-SIT-043,3,SIT,Mobile App,Passed,2026-10-22
+TC-W3-SIT-044,3,SIT,SLA Management,Passed,2026-10-13
+TC-W3-SIT-045,3,SIT,Customer & Asset Data,Passed,2026-09-28
+TC-W3-SIT-046,3,SIT,Data Migration,Passed,2026-10-06
+TC-W3-SIT-047,3,SIT,ERP Billing Integration,Passed,2026-10-14
+TC-W3-SIT-048,3,SIT,Parts Integration,Passed,2026-10-01
+TC-W3-SIT-049,3,SIT,SSO & Access,Passed,2026-10-22
+TC-W3-SIT-050,3,SIT,Reporting,Passed,2026-10-03
+TC-W3-SIT-051,3,SIT,Work Orders,Passed,2026-10-07
+TC-W3-SIT-052,3,SIT,Dispatch & Scheduling,Passed,2026-10-09
+TC-W3-SIT-053,3,SIT,Mobile App,Passed,2026-10-09
+TC-W3-SIT-054,3,SIT,SLA Management,Passed,2026-10-16
+TC-W3-SIT-055,3,SIT,Customer & Asset Data,Passed,2026-09-29
+TC-W3-SIT-056,3,SIT,Data Migration,Passed,2026-10-05
+TC-W3-SIT-057,3,SIT,ERP Billing Integration,Passed,2026-10-18
+TC-W3-SIT-058,3,SIT,Parts Integration,Passed,2026-10-22
+TC-W3-SIT-059,3,SIT,SSO & Access,Passed,2026-10-23
+TC-W3-SIT-060,3,SIT,Reporting,Passed,2026-10-02
+TC-W3-SIT-061,3,SIT,Work Orders,Passed,2026-10-19
+TC-W3-SIT-062,3,SIT,Dispatch & Scheduling,Passed,2026-09-28
+TC-W3-SIT-063,3,SIT,Mobile App,Failed,2026-10-05
+TC-W3-SIT-064,3,SIT,SLA Management,Passed,2026-10-08
+TC-W3-SIT-065,3,SIT,Customer & Asset Data,Passed,2026-10-07
+TC-W3-SIT-066,3,SIT,Data Migration,Passed,2026-10-06
+TC-W3-SIT-067,3,SIT,ERP Billing Integration,Passed,2026-10-11
+TC-W3-SIT-068,3,SIT,Parts Integration,Passed,2026-09-30
+TC-W3-SIT-069,3,SIT,SSO & Access,Passed,2026-10-21
+TC-W3-SIT-070,3,SIT,Reporting,Passed,2026-10-05
+TC-W3-SIT-071,3,SIT,Work Orders,Passed,2026-10-02
+TC-W3-SIT-072,3,SIT,Dispatch & Scheduling,Passed,2026-10-18
+TC-W3-SIT-073,3,SIT,Mobile App,Passed,2026-10-05
+TC-W3-SIT-074,3,SIT,SLA Management,Passed,2026-10-15
+TC-W3-SIT-075,3,SIT,Customer & Asset Data,Passed,2026-10-02
+TC-W3-SIT-076,3,SIT,Data Migration,Passed,2026-10-04
+TC-W3-SIT-077,3,SIT,ERP Billing Integration,Passed,2026-10-19
+TC-W3-SIT-078,3,SIT,Parts Integration,Passed,2026-10-08
+TC-W3-SIT-079,3,SIT,SSO & Access,Passed,2026-10-01
+TC-W3-SIT-080,3,SIT,Reporting,Passed,2026-10-08
+TC-W3-SIT-081,3,SIT,Work Orders,Passed,2026-10-12
+TC-W3-SIT-082,3,SIT,Dispatch & Scheduling,Passed,2026-10-05
+TC-W3-SIT-083,3,SIT,Mobile App,Passed,2026-10-11
+TC-W3-SIT-084,3,SIT,SLA Management,Passed,2026-10-22
+TC-W3-SIT-085,3,SIT,Customer & Asset Data,Passed,2026-10-12
+TC-W3-SIT-086,3,SIT,Data Migration,Passed,2026-09-29
+TC-W3-SIT-087,3,SIT,ERP Billing Integration,Passed,2026-10-16
+TC-W3-SIT-088,3,SIT,Parts Integration,Passed,2026-10-07
+TC-W3-SIT-089,3,SIT,SSO & Access,Passed,2026-10-03
+TC-W3-SIT-090,3,SIT,Reporting,Passed,2026-10-04
+TC-W3-SIT-091,3,SIT,Work Orders,Passed,2026-09-30
+TC-W3-SIT-092,3,SIT,Dispatch & Scheduling,Passed,2026-10-15
+TC-W3-SIT-093,3,SIT,Mobile App,Passed,2026-10-17
+TC-W3-SIT-094,3,SIT,SLA Management,Passed,2026-09-28
+TC-W3-SIT-095,3,SIT,Customer & Asset Data,Passed,2026-10-03
+TC-W3-SIT-096,3,SIT,Data Migration,Passed,2026-10-08
+TC-W3-SIT-097,3,SIT,ERP Billing Integration,Passed,2026-10-13
+TC-W3-SIT-098,3,SIT,Parts Integration,Passed,2026-10-05
+TC-W3-SIT-099,3,SIT,SSO & Access,Passed,2026-10-05
+TC-W3-SIT-100,3,SIT,Reporting,Passed,2026-10-11
+TC-W3-SIT-101,3,SIT,Work Orders,Passed,2026-10-05
+TC-W3-SIT-102,3,SIT,Dispatch & Scheduling,Passed,2026-10-03
+TC-W3-SIT-103,3,SIT,Mobile App,Passed,2026-09-28
+TC-W3-SIT-104,3,SIT,SLA Management,Passed,2026-10-09
+TC-W3-SIT-105,3,SIT,Customer & Asset Data,Passed,2026-10-10
+TC-W3-SIT-106,3,SIT,Data Migration,Failed,2026-10-14
+TC-W3-SIT-107,3,SIT,ERP Billing Integration,Passed,2026-10-02
+TC-W3-SIT-108,3,SIT,Parts Integration,Passed,2026-10-07
+TC-W3-SIT-109,3,SIT,SSO & Access,Passed,2026-10-09
+TC-W3-SIT-110,3,SIT,Reporting,Passed,2026-10-16
+TC-W3-SIT-111,3,SIT,Work Orders,Passed,2026-10-22
+TC-W3-SIT-112,3,SIT,Dispatch & Scheduling,Passed,2026-10-05
+TC-W3-SIT-113,3,SIT,Mobile App,Passed,2026-10-10
+TC-W3-SIT-114,3,SIT,SLA Management,Passed,2026-10-02
+TC-W3-SIT-115,3,SIT,Customer & Asset Data,Passed,2026-10-06
+TC-W3-SIT-116,3,SIT,Data Migration,Passed,2026-10-16
+TC-W3-SIT-117,3,SIT,ERP Billing Integration,Passed,2026-10-03
+TC-W3-SIT-118,3,SIT,Parts Integration,Passed,2026-10-13
+TC-W3-SIT-119,3,SIT,SSO & Access,Passed,2026-10-11
+TC-W3-SIT-120,3,SIT,Reporting,Passed,2026-09-30
+TC-W3-UAT-001,3,UAT,Work Orders,Passed,2026-10-26
+TC-W3-UAT-002,3,UAT,Dispatch & Scheduling,Failed,2026-11-13
+TC-W3-UAT-003,3,UAT,Mobile App,Passed,2026-11-02
+TC-W3-UAT-004,3,UAT,SLA Management,Passed,2026-11-02
+TC-W3-UAT-005,3,UAT,Customer & Asset Data,Passed,2026-11-04
+TC-W3-UAT-006,3,UAT,Data Migration,Passed,2026-11-05
+TC-W3-UAT-007,3,UAT,ERP Billing Integration,Blocked,
+TC-W3-UAT-008,3,UAT,Parts Integration,Blocked,
+TC-W3-UAT-009,3,UAT,SSO & Access,Passed,2026-11-13
+TC-W3-UAT-010,3,UAT,Reporting,Passed,2026-11-03
+TC-W3-UAT-011,3,UAT,Work Orders,Passed,2026-11-08
+TC-W3-UAT-012,3,UAT,Dispatch & Scheduling,Passed,2026-11-01
+TC-W3-UAT-013,3,UAT,Mobile App,Passed,2026-11-13
+TC-W3-UAT-014,3,UAT,SLA Management,Passed,2026-11-05
+TC-W3-UAT-015,3,UAT,Customer & Asset Data,Passed,2026-10-26
+TC-W3-UAT-016,3,UAT,Data Migration,Passed,2026-11-12
+TC-W3-UAT-017,3,UAT,ERP Billing Integration,Blocked,
+TC-W3-UAT-018,3,UAT,Parts Integration,Passed,2026-11-06
+TC-W3-UAT-019,3,UAT,SSO & Access,Passed,2026-11-12
+TC-W3-UAT-020,3,UAT,Reporting,Passed,2026-11-13
+TC-W3-UAT-021,3,UAT,Work Orders,Passed,2026-11-09
+TC-W3-UAT-022,3,UAT,Dispatch & Scheduling,Passed,2026-11-06
+TC-W3-UAT-023,3,UAT,Mobile App,Passed,2026-10-27
+TC-W3-UAT-024,3,UAT,SLA Management,Passed,2026-11-03
+TC-W3-UAT-025,3,UAT,Customer & Asset Data,Passed,2026-11-04
+TC-W3-UAT-026,3,UAT,Data Migration,Passed,2026-10-30
+TC-W3-UAT-027,3,UAT,ERP Billing Integration,Passed,2026-11-12
+TC-W3-UAT-028,3,UAT,Parts Integration,Failed,2026-10-29
+TC-W3-UAT-029,3,UAT,SSO & Access,Failed,2026-11-01
+TC-W3-UAT-030,3,UAT,Reporting,Passed,2026-11-12
+TC-W3-UAT-031,3,UAT,Work Orders,Passed,2026-11-11
+TC-W3-UAT-032,3,UAT,Dispatch & Scheduling,Passed,2026-11-09
+TC-W3-UAT-033,3,UAT,Mobile App,Passed,2026-11-09
+TC-W3-UAT-034,3,UAT,SLA Management,Passed,2026-11-02
+TC-W3-UAT-035,3,UAT,Customer & Asset Data,Passed,2026-11-03
+TC-W3-UAT-036,3,UAT,Data Migration,Blocked,
+TC-W3-UAT-037,3,UAT,ERP Billing Integration,Failed,2026-11-06
+TC-W3-UAT-038,3,UAT,Parts Integration,Passed,2026-10-28
+TC-W3-UAT-039,3,UAT,SSO & Access,Blocked,
+TC-W3-UAT-040,3,UAT,Reporting,Passed,2026-11-05
+TC-W3-UAT-041,3,UAT,Work Orders,Passed,2026-11-04
+TC-W3-UAT-042,3,UAT,Dispatch & Scheduling,Passed,2026-11-13
+TC-W3-UAT-043,3,UAT,Mobile App,Passed,2026-11-07
+TC-W3-UAT-044,3,UAT,SLA Management,Failed,2026-10-26
+TC-W3-UAT-045,3,UAT,Customer & Asset Data,Passed,2026-10-29
+TC-W3-UAT-046,3,UAT,Data Migration,Passed,2026-10-31
+TC-W3-UAT-047,3,UAT,ERP Billing Integration,Passed,2026-11-06
+TC-W3-UAT-048,3,UAT,Parts Integration,Passed,2026-11-10
+TC-W3-UAT-049,3,UAT,SSO & Access,Passed,2026-11-06
+TC-W3-UAT-050,3,UAT,Reporting,Passed,2026-11-08
+TC-W3-UAT-051,3,UAT,Work Orders,Passed,2026-11-07
+TC-W3-UAT-052,3,UAT,Dispatch & Scheduling,Passed,2026-10-28
+TC-W3-UAT-053,3,UAT,Mobile App,Passed,2026-11-13
+TC-W3-UAT-054,3,UAT,SLA Management,Passed,2026-11-02
+TC-W3-UAT-055,3,UAT,Customer & Asset Data,Failed,2026-11-10
+TC-W3-UAT-056,3,UAT,Data Migration,Passed,2026-11-01
+TC-W3-UAT-057,3,UAT,ERP Billing Integration,Passed,2026-10-29
+TC-W3-UAT-058,3,UAT,Parts Integration,Passed,2026-10-29
+TC-W3-UAT-059,3,UAT,SSO & Access,Blocked,
+TC-W3-UAT-060,3,UAT,Reporting,Passed,2026-11-07
+TC-W3-UAT-061,3,UAT,Work Orders,Blocked,
+TC-W3-UAT-062,3,UAT,Dispatch & Scheduling,Passed,2026-11-07
+TC-W3-UAT-063,3,UAT,Mobile App,Passed,2026-10-27
+TC-W3-UAT-064,3,UAT,SLA Management,Passed,2026-11-07
+TC-W3-UAT-065,3,UAT,Customer & Asset Data,Passed,2026-11-08
+TC-W3-UAT-066,3,UAT,Data Migration,Failed,2026-11-05
+TC-W3-UAT-067,3,UAT,ERP Billing Integration,Not Run,
+TC-W3-UAT-068,3,UAT,Parts Integration,Passed,2026-10-30
+TC-W3-UAT-069,3,UAT,SSO & Access,Passed,2026-10-27
+TC-W3-UAT-070,3,UAT,Reporting,Passed,2026-11-06
+TC-W3-UAT-071,3,UAT,Work Orders,Passed,2026-11-01
+TC-W3-UAT-072,3,UAT,Dispatch & Scheduling,Passed,2026-10-26
+TC-W3-UAT-073,3,UAT,Mobile App,Passed,2026-10-31
+TC-W3-UAT-074,3,UAT,SLA Management,Passed,2026-11-06
+TC-W3-UAT-075,3,UAT,Customer & Asset Data,Passed,2026-11-10
+TC-W3-UAT-076,3,UAT,Data Migration,Blocked,
+TC-W3-UAT-077,3,UAT,ERP Billing Integration,Passed,2026-11-13
+TC-W3-UAT-078,3,UAT,Parts Integration,Passed,2026-11-11
+TC-W3-UAT-079,3,UAT,SSO & Access,Passed,2026-11-04
+TC-W3-UAT-080,3,UAT,Reporting,Passed,2026-11-04
+TC-W3-UAT-081,3,UAT,Work Orders,Passed,2026-11-05
+TC-W3-UAT-082,3,UAT,Dispatch & Scheduling,Failed,2026-11-01
+TC-W3-UAT-083,3,UAT,Mobile App,Passed,2026-11-05
+TC-W3-UAT-084,3,UAT,SLA Management,Not Run,
+TC-W3-UAT-085,3,UAT,Customer & Asset Data,Passed,2026-10-29
+TC-W3-UAT-086,3,UAT,Data Migration,Failed,2026-11-03
+TC-W3-UAT-087,3,UAT,ERP Billing Integration,Blocked,
+TC-W3-UAT-088,3,UAT,Parts Integration,Passed,2026-11-12
+TC-W3-UAT-089,3,UAT,SSO & Access,Passed,2026-11-13
+TC-W3-UAT-090,3,UAT,Reporting,Not Run,
+TC-W3-UAT-091,3,UAT,Work Orders,Passed,2026-11-05
+TC-W3-UAT-092,3,UAT,Dispatch & Scheduling,Passed,2026-11-03
+TC-W3-UAT-093,3,UAT,Mobile App,Passed,2026-10-28
+TC-W3-UAT-094,3,UAT,SLA Management,Passed,2026-11-06
+TC-W3-UAT-095,3,UAT,Customer & Asset Data,Passed,2026-10-26
+TC-W3-UAT-096,3,UAT,Data Migration,Passed,2026-10-31
+TC-W3-UAT-097,3,UAT,ERP Billing Integration,Not Run,
+TC-W3-UAT-098,3,UAT,Parts Integration,Passed,2026-11-04
+TC-W3-UAT-099,3,UAT,SSO & Access,Passed,2026-11-13
+TC-W3-UAT-100,3,UAT,Reporting,Passed,2026-10-28
+TC-W3-UAT-101,3,UAT,Work Orders,Passed,2026-11-01
+TC-W3-UAT-102,3,UAT,Dispatch & Scheduling,Passed,2026-11-09
+TC-W3-UAT-103,3,UAT,Mobile App,Failed,2026-11-05
+TC-W3-UAT-104,3,UAT,SLA Management,Passed,2026-10-26
+TC-W3-UAT-105,3,UAT,Customer & Asset Data,Passed,2026-11-10
+TC-W3-UAT-106,3,UAT,Data Migration,Failed,2026-11-03
+TC-W3-UAT-107,3,UAT,ERP Billing Integration,Passed,2026-11-01
+TC-W3-UAT-108,3,UAT,Parts Integration,Passed,2026-10-30
+TC-W3-UAT-109,3,UAT,SSO & Access,Passed,2026-11-12
+TC-W3-UAT-110,3,UAT,Reporting,Passed,2026-10-31
+TC-W3-UAT-111,3,UAT,Work Orders,Passed,2026-10-29
+TC-W3-UAT-112,3,UAT,Dispatch & Scheduling,Passed,2026-11-07
+TC-W3-UAT-113,3,UAT,Mobile App,Passed,2026-11-10
+TC-W3-UAT-114,3,UAT,SLA Management,Passed,2026-10-31
+TC-W3-UAT-115,3,UAT,Customer & Asset Data,Passed,2026-11-07
+TC-W3-UAT-116,3,UAT,Data Migration,Failed,2026-11-08
+TC-W3-UAT-117,3,UAT,ERP Billing Integration,Passed,2026-10-28
+TC-W3-UAT-118,3,UAT,Parts Integration,Passed,2026-10-29
+TC-W3-UAT-119,3,UAT,SSO & Access,Passed,2026-11-11
+TC-W3-UAT-120,3,UAT,Reporting,Passed,2026-11-05
+TC-W3-UAT-121,3,UAT,Work Orders,Passed,2026-11-03
+TC-W3-UAT-122,3,UAT,Dispatch & Scheduling,Passed,2026-10-29
+TC-W3-UAT-123,3,UAT,Mobile App,Passed,2026-11-01
+TC-W3-UAT-124,3,UAT,SLA Management,Passed,2026-11-10
+TC-W3-UAT-125,3,UAT,Customer & Asset Data,Passed,2026-11-09
+TC-W3-UAT-126,3,UAT,Data Migration,Not Run,
+TC-W3-UAT-127,3,UAT,ERP Billing Integration,Passed,2026-10-27
+TC-W3-UAT-128,3,UAT,Parts Integration,Passed,2026-10-27
+TC-W3-UAT-129,3,UAT,SSO & Access,Passed,2026-11-09
+TC-W3-UAT-130,3,UAT,Reporting,Passed,2026-11-09
+TC-W3-UAT-131,3,UAT,Work Orders,Passed,2026-10-28
+TC-W3-UAT-132,3,UAT,Dispatch & Scheduling,Passed,2026-11-13
+TC-W3-UAT-133,3,UAT,Mobile App,Passed,2026-11-10
+TC-W3-UAT-134,3,UAT,SLA Management,Passed,2026-11-10
+TC-W3-UAT-135,3,UAT,Customer & Asset Data,Passed,2026-10-30
+TC-W3-UAT-136,3,UAT,Data Migration,Not Run,
+TC-W3-UAT-137,3,UAT,ERP Billing Integration,Passed,2026-11-09
+TC-W3-UAT-138,3,UAT,Parts Integration,Passed,2026-11-12
+TC-W3-UAT-139,3,UAT,SSO & Access,Passed,2026-11-08
+TC-W3-UAT-140,3,UAT,Reporting,Passed,2026-11-05
+TC-W3-UAT-141,3,UAT,Work Orders,Blocked,
+TC-W3-UAT-142,3,UAT,Dispatch & Scheduling,Passed,2026-11-04
+TC-W3-UAT-143,3,UAT,Mobile App,Passed,2026-11-05
+TC-W3-UAT-144,3,UAT,SLA Management,Passed,2026-10-27
+TC-W3-UAT-145,3,UAT,Customer & Asset Data,Passed,2026-11-04
+TC-W3-UAT-146,3,UAT,Data Migration,Blocked,
+TC-W3-UAT-147,3,UAT,ERP Billing Integration,Passed,2026-11-02
+TC-W3-UAT-148,3,UAT,Parts Integration,Passed,2026-11-04
+TC-W3-UAT-149,3,UAT,SSO & Access,Passed,2026-11-13
+TC-W3-UAT-150,3,UAT,Reporting,Passed,2026-10-28
+TC-W3-UAT-151,3,UAT,Work Orders,Passed,2026-11-13
+TC-W3-UAT-152,3,UAT,Dispatch & Scheduling,Passed,2026-11-13
+TC-W3-UAT-153,3,UAT,Mobile App,Passed,2026-10-28
+TC-W3-UAT-154,3,UAT,SLA Management,Passed,2026-11-09
+TC-W3-UAT-155,3,UAT,Customer & Asset Data,Passed,2026-10-30
+TC-W3-UAT-156,3,UAT,Data Migration,Failed,2026-11-11
+TC-W3-UAT-157,3,UAT,ERP Billing Integration,Passed,2026-11-13
+TC-W3-UAT-158,3,UAT,Parts Integration,Passed,2026-11-10
+TC-W3-UAT-159,3,UAT,SSO & Access,Passed,2026-11-04
+TC-W3-UAT-160,3,UAT,Reporting,Not Run,
+TC-W3-UAT-161,3,UAT,Work Orders,Passed,2026-11-05
+TC-W3-UAT-162,3,UAT,Dispatch & Scheduling,Blocked,
+TC-W3-UAT-163,3,UAT,Mobile App,Passed,2026-10-27
+TC-W3-UAT-164,3,UAT,SLA Management,Passed,2026-11-08
+TC-W3-UAT-165,3,UAT,Customer & Asset Data,Passed,2026-11-12
+TC-W3-UAT-166,3,UAT,Data Migration,Passed,2026-10-26
+TC-W3-UAT-167,3,UAT,ERP Billing Integration,Passed,2026-11-10
+TC-W3-UAT-168,3,UAT,Parts Integration,Passed,2026-10-28
+TC-W3-UAT-169,3,UAT,SSO & Access,Passed,2026-10-27
+TC-W3-UAT-170,3,UAT,Reporting,Failed,2026-11-12
+TC-W3-UAT-171,3,UAT,Work Orders,Passed,2026-11-13
+TC-W3-UAT-172,3,UAT,Dispatch & Scheduling,Passed,2026-11-03
+TC-W3-UAT-173,3,UAT,Mobile App,Passed,2026-11-12
+TC-W3-UAT-174,3,UAT,SLA Management,Passed,2026-10-27
+TC-W3-UAT-175,3,UAT,Customer & Asset Data,Passed,2026-10-27
+TC-W3-UAT-176,3,UAT,Data Migration,Passed,2026-11-03
+TC-W3-UAT-177,3,UAT,ERP Billing Integration,Failed,2026-11-12
+TC-W3-UAT-178,3,UAT,Parts Integration,Passed,2026-10-31
+TC-W3-UAT-179,3,UAT,SSO & Access,Passed,2026-10-29
+TC-W3-UAT-180,3,UAT,Reporting,Passed,2026-11-08
+TC-W3-UAT-181,3,UAT,Work Orders,Passed,2026-11-09
+TC-W3-UAT-182,3,UAT,Dispatch & Scheduling,Not Run,
+TC-W3-UAT-183,3,UAT,Mobile App,Passed,2026-11-09
+TC-W3-UAT-184,3,UAT,SLA Management,Passed,2026-10-31
+TC-W3-UAT-185,3,UAT,Customer & Asset Data,Passed,2026-11-12
+TC-W3-UAT-186,3,UAT,Data Migration,Passed,2026-10-29
+TC-W3-UAT-187,3,UAT,ERP Billing Integration,Failed,2026-10-28
+TC-W3-UAT-188,3,UAT,Parts Integration,Passed,2026-11-09
+TC-W3-UAT-189,3,UAT,SSO & Access,Passed,2026-11-08
+TC-W3-UAT-190,3,UAT,Reporting,Passed,2026-11-03
+TC-W3-UAT-191,3,UAT,Work Orders,Passed,2026-11-09
+TC-W3-UAT-192,3,UAT,Dispatch & Scheduling,Passed,2026-11-06
+TC-W3-UAT-193,3,UAT,Mobile App,Passed,2026-11-11
+TC-W3-UAT-194,3,UAT,SLA Management,Passed,2026-10-31
+TC-W3-UAT-195,3,UAT,Customer & Asset Data,Passed,2026-11-08
+TC-W3-UAT-196,3,UAT,Data Migration,Passed,2026-11-01
+TC-W3-UAT-197,3,UAT,ERP Billing Integration,Passed,2026-10-30
+TC-W3-UAT-198,3,UAT,Parts Integration,Passed,2026-11-13
+TC-W3-UAT-199,3,UAT,SSO & Access,Passed,2026-11-09
+TC-W3-UAT-200,3,UAT,Reporting,Passed,2026-11-06
+TC-W4-SIT-001,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-002,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-003,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-004,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-005,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-006,4,SIT,Data Migration,Passed,2026-11-07
+TC-W4-SIT-007,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-008,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-009,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-010,4,SIT,Reporting,Not Run,
+TC-W4-SIT-011,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-012,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-013,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-014,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-015,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-016,4,SIT,Data Migration,Passed,2026-11-04
+TC-W4-SIT-017,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-018,4,SIT,Parts Integration,Failed,2026-11-10
+TC-W4-SIT-019,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-020,4,SIT,Reporting,Not Run,
+TC-W4-SIT-021,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-022,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-023,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-024,4,SIT,SLA Management,Blocked,
+TC-W4-SIT-025,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-026,4,SIT,Data Migration,Not Run,
+TC-W4-SIT-027,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-028,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-029,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-030,4,SIT,Reporting,Not Run,
+TC-W4-SIT-031,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-032,4,SIT,Dispatch & Scheduling,Passed,2026-11-10
+TC-W4-SIT-033,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-034,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-035,4,SIT,Customer & Asset Data,Passed,2026-11-12
+TC-W4-SIT-036,4,SIT,Data Migration,Not Run,
+TC-W4-SIT-037,4,SIT,ERP Billing Integration,Failed,2026-11-07
+TC-W4-SIT-038,4,SIT,Parts Integration,Failed,2026-11-03
+TC-W4-SIT-039,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-040,4,SIT,Reporting,Not Run,
+TC-W4-SIT-041,4,SIT,Work Orders,Passed,2026-11-13
+TC-W4-SIT-042,4,SIT,Dispatch & Scheduling,Passed,2026-11-09
+TC-W4-SIT-043,4,SIT,Mobile App,Passed,2026-11-09
+TC-W4-SIT-044,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-045,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-046,4,SIT,Data Migration,Passed,2026-11-02
+TC-W4-SIT-047,4,SIT,ERP Billing Integration,Passed,2026-11-03
+TC-W4-SIT-048,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-049,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-050,4,SIT,Reporting,Not Run,
+TC-W4-SIT-051,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-052,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-053,4,SIT,Mobile App,Failed,2026-11-02
+TC-W4-SIT-054,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-055,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-056,4,SIT,Data Migration,Not Run,
+TC-W4-SIT-057,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-058,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-059,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-060,4,SIT,Reporting,Not Run,
+TC-W4-SIT-061,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-062,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-063,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-064,4,SIT,SLA Management,Blocked,
+TC-W4-SIT-065,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-066,4,SIT,Data Migration,Not Run,
+TC-W4-SIT-067,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-068,4,SIT,Parts Integration,Passed,2026-11-03
+TC-W4-SIT-069,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-070,4,SIT,Reporting,Not Run,
+TC-W4-SIT-071,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-072,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-073,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-074,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-075,4,SIT,Customer & Asset Data,Passed,2026-11-03
+TC-W4-SIT-076,4,SIT,Data Migration,Failed,2026-11-02
+TC-W4-SIT-077,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-078,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-079,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-080,4,SIT,Reporting,Not Run,
+TC-W4-SIT-081,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-082,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-083,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-084,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-085,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-086,4,SIT,Data Migration,Not Run,
+TC-W4-SIT-087,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-088,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-089,4,SIT,SSO & Access,Passed,2026-11-12
+TC-W4-SIT-090,4,SIT,Reporting,Not Run,
+TC-W4-SIT-091,4,SIT,Work Orders,Failed,2026-11-07
+TC-W4-SIT-092,4,SIT,Dispatch & Scheduling,Passed,2026-11-13
+TC-W4-SIT-093,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-094,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-095,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-096,4,SIT,Data Migration,Not Run,
+TC-W4-SIT-097,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-098,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-099,4,SIT,SSO & Access,Passed,2026-11-10
+TC-W4-SIT-100,4,SIT,Reporting,Not Run,
+TC-W4-SIT-101,4,SIT,Work Orders,Not Run,
+TC-W4-SIT-102,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-103,4,SIT,Mobile App,Passed,2026-11-08
+TC-W4-SIT-104,4,SIT,SLA Management,Not Run,
+TC-W4-SIT-105,4,SIT,Customer & Asset Data,Not Run,
+TC-W4-SIT-106,4,SIT,Data Migration,Not Run,
+TC-W4-SIT-107,4,SIT,ERP Billing Integration,Not Run,
+TC-W4-SIT-108,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-109,4,SIT,SSO & Access,Not Run,
+TC-W4-SIT-110,4,SIT,Reporting,Passed,2026-11-02
+TC-W4-SIT-111,4,SIT,Work Orders,Passed,2026-11-09
+TC-W4-SIT-112,4,SIT,Dispatch & Scheduling,Not Run,
+TC-W4-SIT-113,4,SIT,Mobile App,Not Run,
+TC-W4-SIT-114,4,SIT,SLA Management,Passed,2026-11-03
+TC-W4-SIT-115,4,SIT,Customer & Asset Data,Passed,2026-11-06
+TC-W4-SIT-116,4,SIT,Data Migration,Passed,2026-11-10
+TC-W4-SIT-117,4,SIT,ERP Billing Integration,Passed,2026-11-04
+TC-W4-SIT-118,4,SIT,Parts Integration,Not Run,
+TC-W4-SIT-119,4,SIT,SSO & Access,Passed,2026-11-12
+TC-W4-SIT-120,4,SIT,Reporting,Not Run,
+TC-W4-UAT-001,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-002,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-003,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-004,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-005,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-006,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-007,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-008,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-009,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-010,4,UAT,Reporting,Not Run,
+TC-W4-UAT-011,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-012,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-013,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-014,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-015,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-016,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-017,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-018,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-019,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-020,4,UAT,Reporting,Not Run,
+TC-W4-UAT-021,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-022,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-023,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-024,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-025,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-026,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-027,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-028,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-029,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-030,4,UAT,Reporting,Not Run,
+TC-W4-UAT-031,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-032,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-033,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-034,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-035,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-036,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-037,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-038,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-039,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-040,4,UAT,Reporting,Not Run,
+TC-W4-UAT-041,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-042,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-043,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-044,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-045,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-046,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-047,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-048,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-049,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-050,4,UAT,Reporting,Not Run,
+TC-W4-UAT-051,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-052,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-053,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-054,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-055,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-056,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-057,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-058,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-059,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-060,4,UAT,Reporting,Not Run,
+TC-W4-UAT-061,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-062,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-063,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-064,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-065,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-066,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-067,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-068,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-069,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-070,4,UAT,Reporting,Not Run,
+TC-W4-UAT-071,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-072,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-073,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-074,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-075,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-076,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-077,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-078,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-079,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-080,4,UAT,Reporting,Not Run,
+TC-W4-UAT-081,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-082,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-083,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-084,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-085,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-086,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-087,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-088,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-089,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-090,4,UAT,Reporting,Not Run,
+TC-W4-UAT-091,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-092,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-093,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-094,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-095,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-096,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-097,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-098,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-099,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-100,4,UAT,Reporting,Not Run,
+TC-W4-UAT-101,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-102,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-103,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-104,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-105,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-106,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-107,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-108,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-109,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-110,4,UAT,Reporting,Not Run,
+TC-W4-UAT-111,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-112,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-113,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-114,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-115,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-116,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-117,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-118,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-119,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-120,4,UAT,Reporting,Not Run,
+TC-W4-UAT-121,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-122,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-123,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-124,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-125,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-126,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-127,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-128,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-129,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-130,4,UAT,Reporting,Not Run,
+TC-W4-UAT-131,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-132,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-133,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-134,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-135,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-136,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-137,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-138,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-139,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-140,4,UAT,Reporting,Not Run,
+TC-W4-UAT-141,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-142,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-143,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-144,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-145,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-146,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-147,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-148,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-149,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-150,4,UAT,Reporting,Not Run,
+TC-W4-UAT-151,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-152,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-153,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-154,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-155,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-156,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-157,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-158,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-159,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-160,4,UAT,Reporting,Not Run,
+TC-W4-UAT-161,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-162,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-163,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-164,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-165,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-166,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-167,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-168,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-169,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-170,4,UAT,Reporting,Not Run,
+TC-W4-UAT-171,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-172,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-173,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-174,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-175,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-176,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-177,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-178,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-179,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-180,4,UAT,Reporting,Not Run,
+TC-W4-UAT-181,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-182,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-183,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-184,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-185,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-186,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-187,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-188,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-189,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-190,4,UAT,Reporting,Not Run,
+TC-W4-UAT-191,4,UAT,Work Orders,Not Run,
+TC-W4-UAT-192,4,UAT,Dispatch & Scheduling,Not Run,
+TC-W4-UAT-193,4,UAT,Mobile App,Not Run,
+TC-W4-UAT-194,4,UAT,SLA Management,Not Run,
+TC-W4-UAT-195,4,UAT,Customer & Asset Data,Not Run,
+TC-W4-UAT-196,4,UAT,Data Migration,Not Run,
+TC-W4-UAT-197,4,UAT,ERP Billing Integration,Not Run,
+TC-W4-UAT-198,4,UAT,Parts Integration,Not Run,
+TC-W4-UAT-199,4,UAT,SSO & Access,Not Run,
+TC-W4-UAT-200,4,UAT,Reporting,Not Run,

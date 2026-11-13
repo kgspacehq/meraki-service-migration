@@ -1,0 +1,41 @@
+depot_id,depot_name,region,wave,planned_cutover_date,actual_cutover_date,technicians
+DEP-01,Miami Service Depot,Southeast,1,2026-09-25,2026-09-25,19
+DEP-02,Tampa Service Depot,Southeast,1,2026-09-25,2026-09-25,14
+DEP-03,Orlando Service Depot,Southeast,1,2026-09-25,2026-09-25,18
+DEP-04,Jacksonville Service Depot,Southeast,1,2026-09-25,2026-09-25,25
+DEP-05,Atlanta Service Depot,Southeast,1,2026-09-25,2026-09-25,34
+DEP-06,Charlotte Service Depot,Southeast,1,2026-09-25,2026-09-25,14
+DEP-07,Birmingham Service Depot,Southeast,1,2026-09-25,2026-09-25,28
+DEP-08,Nashville Service Depot,Southeast,1,2026-09-25,2026-09-25,16
+DEP-09,Raleigh Service Depot,Southeast,1,2026-09-25,2026-09-25,30
+DEP-10,Savannah Service Depot,Southeast,1,2026-09-25,2026-09-25,18
+DEP-11,Boston Service Depot,Northeast,2,2026-10-23,2026-10-23,17
+DEP-12,New York Service Depot,Northeast,2,2026-10-23,2026-10-23,15
+DEP-13,Newark Service Depot,Northeast,2,2026-10-23,2026-10-23,26
+DEP-14,Philadelphia Service Depot,Northeast,2,2026-10-23,2026-10-23,15
+DEP-15,Pittsburgh Service Depot,Northeast,2,2026-10-23,2026-10-23,31
+DEP-16,Baltimore Service Depot,Northeast,2,2026-10-23,2026-10-23,17
+DEP-17,Hartford Service Depot,Northeast,2,2026-10-23,2026-10-23,33
+DEP-18,Providence Service Depot,Northeast,2,2026-10-23,2026-10-23,23
+DEP-19,Albany Service Depot,Northeast,2,2026-10-23,2026-10-23,14
+DEP-20,Buffalo Service Depot,Northeast,2,2026-10-23,2026-10-23,23
+DEP-21,Chicago Service Depot,Midwest,3,2026-11-20,,29
+DEP-22,Detroit Service Depot,Midwest,3,2026-11-20,,14
+DEP-23,Cleveland Service Depot,Midwest,3,2026-11-20,,34
+DEP-24,Columbus Service Depot,Midwest,3,2026-11-20,,35
+DEP-25,Indianapolis Service Depot,Midwest,3,2026-11-20,,37
+DEP-26,Milwaukee Service Depot,Midwest,3,2026-11-20,,35
+DEP-27,Minneapolis Service Depot,Midwest,3,2026-11-20,,23
+DEP-28,St. Louis Service Depot,Midwest,3,2026-11-20,,30
+DEP-29,Kansas City Service Depot,Midwest,3,2026-11-20,,36
+DEP-30,Cincinnati Service Depot,Midwest,3,2026-11-20,,27
+DEP-31,Los Angeles Service Depot,West,4,2026-12-18,,22
+DEP-32,San Diego Service Depot,West,4,2026-12-18,,15
+DEP-33,San Jose Service Depot,West,4,2026-12-18,,29
+DEP-34,Sacramento Service Depot,West,4,2026-12-18,,38
+DEP-35,Phoenix Service Depot,West,4,2026-12-18,,26
+DEP-36,Las Vegas Service Depot,West,4,2026-12-18,,24
+DEP-37,Denver Service Depot,West,4,2026-12-18,,35
+DEP-38,Salt Lake City Service Depot,West,4,2026-12-18,,37
+DEP-39,Seattle Service Depot,West,4,2026-12-18,,23
+DEP-40,Portland Service Depot,West,4,2026-12-18,,18
