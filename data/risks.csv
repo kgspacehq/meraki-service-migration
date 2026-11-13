@@ -3,11 +3,11 @@ R-01,Poor legacy data quality slows migration and lowers reconciliation,5,4,Mich
 R-02,"Integration with the legacy ERP fails at cutover (billing, parts)",4,5,Priya Raman,"Mitigate: end-to-end integration tests every sprint, cutover rehearsal per wave",Open
 R-03,Open tickets lost or corrupted during migration,3,5,James Whitfield,Avoid: reconciliation gate at 99.5% and 0 open tickets lost before go-live,Open
 R-04,Technicians resist the new mobile app,3,3,Robert Hayes,"Mitigate: 2+ super-users per depot, hands-on training, floor support in hypercare",Open
-R-05,Vendor resourcing gaps during overlapping waves,2,3,Keren,"Mitigate: named resources in the SOW, escalation path to vendor account lead",Open
-R-06,Wave 4 overlaps the holiday period; Wave 3 slip compresses Wave 4,4,4,Keren,"Mitigate: fixed Dec 18 deadline, buffer week, re-plan if Wave 3 is NO-GO",Open
+R-05,Vendor resourcing gaps during overlapping waves,2,3,Keren Guillen,"Mitigate: named resources in the SOW, escalation path to vendor account lead",Open
+R-06,Wave 4 overlaps the holiday period; Wave 3 slip compresses Wave 4,4,4,Keren Guillen,"Mitigate: fixed Dec 18 deadline, buffer week, re-plan if Wave 3 is NO-GO",Open
 R-07,Cutover downtime exceeds 4 hours per depot,2,4,Priya Raman,"Mitigate: timed rehearsals, parallel load, rollback trigger at 3.5 hours",Open
 R-08,Security rejects SSO or data-residency model,2,4,Marcus Bell,Avoid: security review gate before Wave 1,Closed
 R-09,Unsupported legacy system fails before decommissioning,2,5,Priya Raman,"Accept with contingency: nightly read-only backup, vendor-independent DB access",Open
-R-10,Budget overrun from extra cleansing sprints and Wave 3 re-test,3,3,Keren,"Mitigate: draw from 10% contingency, monthly review with Finance",Open
+R-10,Budget overrun from extra cleansing sprints and Wave 3 re-test,3,3,Keren Guillen,"Mitigate: draw from 10% contingency, monthly review with Finance",Open
 R-11,Depot key users unavailable for UAT during peak season,3,3,Ana Morales,"Mitigate: book UAT slots 4 weeks ahead, backup key users per depot",Occurred
 R-12,Billing errors after go-live delay the financial close,2,4,Sofia Delgado,"Mitigate: billing reconciliation in hypercare, finance sign-off on integration tests",Open

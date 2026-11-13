@@ -6,7 +6,7 @@
 |---|---|
 | **Program** | Meraki Modernization Program — Wave 1 (see [Company Profile](00-company-profile.md)) |
 | **Sponsor** | Daniel Ortiz, VP of Field Operations |
-| **Project Manager** | Keren |
+| **Project Manager** | Keren Guillen |
 | **Charter date** | June 15, 2026 |
 | **Timeline** | July – December 2026 (depot migrations September – December 2026) |
 | **Budget** | USD 1.2M |
@@ -77,5 +77,5 @@ The project uses a **hybrid** approach:
 | Role | Name | Signature | Date |
 |---|---|---|---|
 | Sponsor — VP of Field Operations | Daniel Ortiz | | |
-| Project Manager | Keren | | |
+| Project Manager | Keren Guillen | | |
 | IT Director | Priya Raman | | |

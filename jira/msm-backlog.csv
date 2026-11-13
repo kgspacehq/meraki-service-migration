@@ -1,0 +1,358 @@
+Issue Id,Parent Id,Issue Type,Summary,Description,Priority,Labels,Labels,Labels,Story Points,Start date,Due date,Status,Outward Link (Blocks)
+1,,Epic,Platform Configuration,"Configure the cloud field-service platform: work orders, dispatch, mobile app, SLAs and depot set-up for all 4 migration waves. Scope for each wave freezes 2 sprints before its cutover (Wave 4 freeze: Nov 20, 2026).",High,platform-config,,,,2026-07-01,2026-11-20,In Progress,
+2,,Epic,Data Migration & Reconciliation,"Extract, map and load open tickets, 3 years of service history and customer/asset master data from the legacy ticketing system. Gate per wave: reconciliation >= 99.5% and 0 open tickets lost.",High,data-migration,,,,2026-07-13,2026-12-18,In Progress,
+3,,Epic,Integrations,"Integrate the platform with the legacy ERP (billing, parts) and the identity provider (SSO). The legacy ERP interfaces must stay stable until Program Wave 2 (SAP S/4HANA Cloud).",High,integrations,,,,2026-07-06,2026-12-11,In Progress,
+4,,Epic,Testing & Quality (SIT/UAT),"SIT and UAT for each migration wave, plus defect management. Gate per wave: UAT pass rate >= 95% and 0 open S1 defects.",High,testing,,,,2026-07-20,2026-12-11,In Progress,
+5,,Epic,Training & Cutover,"End-user training, cutover runbooks, rehearsals, go/no-go decisions, hypercare and legacy decommissioning. Target: < 4 hours downtime per depot; legacy system decommissioned by Jan 31, 2027.",High,cutover,training,,,2026-08-17,2027-01-29,In Progress,
+101,1,Story,"Configure work order types, statuses and status transitions","As a dispatcher, I want work order types and statuses that match our service process, so that every service order follows one lifecycle across all depots.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the status model agreed with depot managers
+*When* a work order moves through Open, In Progress, On Hold and Closed
+*Then* only the allowed transitions are possible and each change is logged
+
+*AC2*
+*Given* a technician closes a work order
+*When* required fields (asset, labor hours, resolution code) are empty
+*Then* the platform blocks closure and lists the missing fields",High,core,,,8,2026-07-06,2026-07-31,Done,
+102,1,Story,Configure dispatch and scheduling rules per depot,"As a dispatcher, I want auto-dispatch based on skills, territory and on-call rotas, so that P1 tickets reach the right technician quickly.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a P1 ticket is created for a depot
+*When* auto-dispatch runs
+*Then* the nearest available technician with the required skill, including on-call staff, is assigned
+
+*AC2*
+*Given* a depot in a different time zone
+*When* a technician opens their calendar
+*Then* appointments show in the depot's local time",High,core,,,5,2026-07-13,2026-08-07,Done,
+103,1,Story,"Configure mobile app offline mode, photo and signature capture","As a field technician, I want to work offline on site and capture photos and customer signatures, so that I can close jobs where there is no signal.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a technician is offline
+*When* they complete a work order with photos and a signature
+*Then* all data syncs without loss once the device reconnects
+
+*AC2*
+*Given* a supported tablet model
+*When* the customer signs
+*Then* the signature is stored on the work order and on the service report",Medium,core,mobile,,8,2026-07-20,2026-08-21,Done,
+104,1,Story,Configure SLA policies and P1 escalations,"As a service desk manager, I want SLA clocks and escalations per priority, so that we can track and protect contractual response times.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a ticket is On Hold awaiting parts
+*When* time passes
+*Then* the SLA clock is paused
+
+*AC2*
+*Given* a P1 ticket
+*When* it reaches 80% of its response SLA
+*Then* an escalation email goes to the depot manager and the service desk",Medium,core,,,5,2026-07-27,2026-08-21,Done,
+105,1,Story,Configure Wave 4 West depots (DEP-31 to DEP-40): territories and technician rosters,"Set up the 10 West depots (Pacific and Mountain time zones) before the Wave 4 scope freeze on Nov 20, 2026.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 4 depot list in data/depots.csv
+*When* the configuration is deployed to the test environment
+*Then* all 10 depots, territories and technician rosters exist and match the depot data
+
+*AC2*
+*Given* Pacific and Mountain time zones
+*When* SIT schedules a job in each depot
+*Then* times are correct in each depot's local time zone",High,wave-4,,,5,2026-11-16,2026-11-20,To Do,
+106,1,Story,Fix DEF-104: technician calendar ignores depot time zone,"S1 defect DEF-104 found in Wave 4 SIT: technician calendars show Eastern time for every depot. Must be fixed before the Wave 4 go/no-go.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a West depot technician
+*When* they open their calendar
+*Then* appointments show in the depot's local time
+
+*AC2*
+*Given* the fix is deployed
+*When* the related SIT cases are re-run
+*Then* they pass and DEF-104 is closed",High,wave-4,defect-fix,,3,2026-11-16,2026-11-20,To Do,
+107,2,Story,Build legacy extract and status/priority mapping rules,"Extract tickets, customers and assets from the unsupported legacy database without vendor support, and map legacy codes to the new platform.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* read-only access to the legacy database
+*When* the extract job runs
+*Then* open tickets and 3 years of history are extracted for the selected depots
+
+*AC2*
+*Given* each legacy status and priority code
+*When* the mapping is applied
+*Then* every code maps to exactly one platform value and unmapped codes are reported",Highest,core,,,8,2026-07-13,2026-08-14,Done,
+108,2,Story,Wave 1 migration load and reconciliation (Southeast),"Load and reconcile the 2,602 legacy tickets from depots DEP-01 to DEP-10. Result: 99.8% reconciled, 0 open tickets lost.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 1 legacy extract
+*When* the load completes
+*Then* reconciliation (sql/01_reconciliation.sql) is >= 99.5%
+
+*AC2*
+*Given* the load is complete
+*When* missing tickets are checked
+*Then* 0 open tickets are missing",Highest,wave-1,,,5,2026-09-07,2026-09-26,Done,
+109,2,Story,"Wave 2 migration load, reconciliation and duplicate clean-up (Northeast)","Load and reconcile the 2,578 legacy tickets from depots DEP-11 to DEP-20. Result: 99.6% reconciled, 0 open tickets lost, 2 duplicate loads found.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 2 legacy extract
+*When* the load completes
+*Then* reconciliation is >= 99.5% and 0 open tickets are missing
+
+*AC2*
+*Given* duplicate loads in sql/02_data_quality.sql
+*When* the clean-up runs
+*Then* each legacy ticket has exactly one active record",Highest,wave-2,,,5,2026-10-05,2026-10-24,Done,
+110,2,Story,Fix DEF-100: open tickets dropped when legacy depot code has a trailing space,"S1 defect DEF-100 (Data Migration). The Wave 3 dress-rehearsal load dropped 4 open tickets (LT-011529, LT-011684, LT-011854, LT-011902) because their legacy depot code has a trailing space. This breaks the gate ""0 open tickets lost"".
+
+Linked to the Wave 3 NO-GO (assessment 2026-11-13: readiness score 68.5, 4 gate criteria failed; see sql/05_readiness_score.sql).
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* legacy depot codes with leading or trailing spaces
+*When* the extract runs
+*Then* codes are trimmed and every ticket maps to a valid depot_id
+
+*AC2*
+*Given* the corrected load for Wave 3
+*When* sql/01_reconciliation.sql Q2 and Q3 are run
+*Then* 0 open tickets are missing, including the 4 tickets above
+
+*AC3*
+*Given* the fix is deployed
+*When* the Data Migration UAT cases are re-run
+*Then* they pass and DEF-100 is closed",Highest,wave-3,defect-fix,no-go-blocker,5,2026-11-04,2026-11-17,In Progress,124
+111,2,Story,Wave 3 reconciliation remediation to >= 99.5% (Midwest),"The Wave 3 dress-rehearsal reconciliation is 98.7% (threshold 99.5%). 47 discrepancies: 21 missing records, 16 status mismatches (mainly Closed loaded as Open), 10 dropped dates. There are also 7 duplicate loads.
+
+Linked to the Wave 3 NO-GO (assessment 2026-11-13: readiness score 68.5, 4 gate criteria failed; see sql/05_readiness_score.sql).
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the status mapping rules
+*When* a legacy Closed or Cancelled ticket is loaded
+*Then* it keeps the same status in the platform
+
+*AC2*
+*Given* closed legacy tickets
+*When* they are loaded
+*Then* created_date and closed_date are never NULL
+
+*AC3*
+*Given* the Wave 3 re-load
+*When* sql/01_reconciliation.sql Q4 and sql/02_data_quality.sql are run
+*Then* reconciliation is >= 99.5% and there are 0 duplicate loads",Highest,wave-3,no-go-blocker,,8,2026-11-09,2026-11-18,In Progress,124
+112,2,Story,Wave 4 legacy extract and mock load (West),"Run the extract and a mock load for the 3,214 legacy tickets in depots DEP-31 to DEP-40, including the DEF-100 trimming fix.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 4 extract
+*When* the mock load completes
+*Then* reconciliation is >= 99.5% and 0 open tickets are missing
+
+*AC2*
+*Given* the mock load results
+*When* they are reviewed with depot data owners
+*Then* every discrepancy has an owner and a fix date before the Wave 4 go/no-go",High,wave-4,,,5,2026-11-23,2026-12-04,To Do,
+113,3,Story,Integrate work order close with legacy ERP billing,"Send closed work orders (labor, parts, travel) to the legacy ERP to create invoices.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a billable work order
+*When* it is closed in the platform
+*Then* an invoice request reaches the legacy ERP within 15 minutes
+
+*AC2*
+*Given* labor hours with decimals
+*When* the invoice is created
+*Then* hours and amounts match the work order exactly",Highest,core,erp,,8,2026-07-06,2026-08-21,Done,
+114,3,Story,Integrate parts reservations and stock levels with legacy ERP,"Reserve parts from depot stock and keep stock levels in sync with the ERP.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a technician requests a part
+*When* the request is saved
+*Then* the part is reserved in the ERP
+
+*AC2*
+*Given* a work order is cancelled
+*When* it has reserved parts
+*Then* the reservation is released",High,core,erp,,5,2026-07-20,2026-08-28,Done,
+115,3,Story,Set up SSO with the identity provider and role-based access,"SSO and role model approved by Security before Wave 1 (charter constraint).
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a Meraki user with an active corporate account
+*When* they sign in
+*Then* they are authenticated through SSO with no separate password
+
+*AC2*
+*Given* the depot supervisor role
+*When* a supervisor opens a closed ticket
+*Then* they can read it but cannot edit it",High,core,security,,5,2026-07-06,2026-08-14,Done,
+116,3,Story,Fix DEF-112: invoices not created for work orders closed after migration,"S1 defect DEF-112 (ERP Billing Integration). Work orders migrated as open and then closed in the platform do not create an invoice in the legacy ERP. This is a revenue and financial-close risk (R-12).
+
+Linked to the Wave 3 NO-GO (assessment 2026-11-13: readiness score 68.5, 4 gate criteria failed; see sql/05_readiness_score.sql).
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* a ticket migrated as Open
+*When* it is closed in the platform
+*Then* an invoice is created in the legacy ERP
+
+*AC2*
+*Given* Wave 1-2 work orders closed since go-live
+*When* a billing reconciliation is run
+*Then* every billable work order has an invoice, and gaps are back-billed
+
+*AC3*
+*Given* the fix is deployed
+*When* the ERP Billing UAT cases are re-run
+*Then* they pass and DEF-112 is closed",Highest,wave-3,defect-fix,no-go-blocker,5,2026-11-09,2026-11-17,In Progress,124
+117,4,Story,Wave 1 SIT and UAT,"SIT (120 cases) and UAT (200 cases) for Wave 1. Result: SIT 96.7%, UAT 97.0% pass rate.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 1 UAT test set
+*When* execution completes
+*Then* the pass rate is >= 95% with 0 open S1 defects",High,wave-1,,,8,2026-07-20,2026-09-18,Done,
+118,4,Story,Wave 2 SIT and UAT,"SIT (120 cases) and UAT (200 cases) for Wave 2. Result: SIT 95.8%, UAT 96.5% pass rate.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 2 UAT test set
+*When* execution completes
+*Then* the pass rate is >= 95% with 0 open S1 defects",High,wave-2,,,8,2026-08-31,2026-10-16,Done,
+119,4,Story,Wave 3 UAT re-test to reach >= 95% pass rate,"The Wave 3 UAT pass rate is 91.1% (164 passed, 16 failed, 12 blocked, 8 not run). Failures are concentrated in Data Migration and ERP Billing Integration.
+
+Linked to the Wave 3 NO-GO (assessment 2026-11-13: readiness score 68.5, 4 gate criteria failed; see sql/05_readiness_score.sql).
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* DEF-100 and DEF-112 are fixed
+*When* the failed and blocked UAT cases are re-run
+*Then* sql/03_test_metrics.sql shows a Wave 3 UAT pass rate >= 95%
+
+*AC2*
+*Given* 8 UAT cases not yet run
+*When* key users from DEP-21 to DEP-30 execute them
+*Then* every UAT case has a Passed or Failed result",Highest,wave-3,no-go-blocker,,8,2026-10-26,2026-11-18,In Progress,124
+120,4,Story,Wave 4 SIT completion,"Wave 4 SIT has started: 30 of 120 cases executed, 78.6% pass rate. Complete the remaining 90 cases.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 4 configuration is frozen
+*When* all 120 SIT cases are executed
+*Then* the SIT pass rate is >= 95%",High,wave-4,,,5,2026-11-16,2026-11-27,To Do,
+121,4,Story,Wave 4 UAT with West depot key users,"UAT (200 cases) with 2 key users per depot for DEP-31 to DEP-40.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* SIT is complete
+*When* UAT is executed
+*Then* the pass rate is >= 95% with 0 open S1 defects before the Wave 4 go/no-go",High,wave-4,,,8,2026-11-30,2026-12-11,To Do,
+122,5,Story,"Wave 1 training, cutover and hypercare (Southeast)","Train end users and super-users, and cut over DEP-01 to DEP-10. Result: 96% trained, 3.1 hours downtime in rehearsal.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the cutover runbook
+*When* the cutover is executed
+*Then* downtime per depot is < 4 hours and the go/no-go decision is recorded",High,wave-1,,,5,2026-08-31,2026-09-26,Done,
+123,5,Story,"Wave 2 training, cutover and hypercare (Northeast)","Train end users and super-users, and cut over DEP-11 to DEP-20. Result: 94% trained, 3.4 hours downtime in rehearsal.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the cutover runbook
+*When* the cutover is executed
+*Then* downtime per depot is < 4 hours and the go/no-go decision is recorded",High,wave-2,,,5,2026-09-28,2026-10-24,Done,
+124,5,Story,Wave 3 go/no-go decision and revised cutover plan,"The readiness assessment of Nov 13, 2026 gives a NO-GO for the Nov 20 cutover: score 68.5/100, gates failed for UAT pass rate (91.1%), open S1 defects (2), reconciliation (98.7%) and open tickets lost (4). The blocking items are linked to this issue.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the readiness scorecard (sql/05_readiness_score.sql)
+*When* the steering committee meets on Nov 18
+*Then* the GO or NO-GO decision is recorded with the sponsor's approval
+
+*AC2*
+*Given* a NO-GO decision
+*When* the plan is revised
+*Then* a new Wave 3 cutover date is proposed that respects the weekend-only and Thanksgiving-week constraints and the impact on Wave 4 (Dec 18) is assessed
+
+*AC3*
+*Given* a revised plan
+*When* it is shared
+*Then* depot managers, the service desk and the vendor confirm the new date",Highest,wave-3,go-no-go,,3,2026-11-13,2026-11-18,In Progress,
+125,5,Story,Wave 3 training and hypercare readiness (Midwest),"92% of Wave 3 end users trained, 2.2 super-users per depot, cutover rehearsal on Nov 7 at 3.6 hours downtime. Keep readiness current while the cutover date is re-planned.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the training records
+*When* the go/no-go is held
+*Then* at least 90% of end users are trained and each depot has 2 or more super-users
+
+*AC2*
+*Given* the hypercare roster
+*When* the cutover date is confirmed
+*Then* the roster covers 4 weeks after the new date",Medium,wave-3,training,,3,2026-11-02,2026-11-20,In Progress,
+126,5,Story,Wave 4 end-user training (West),"Only 18% of Wave 4 end users are trained. Book sessions around the holiday period.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the training plan
+*When* sessions are completed
+*Then* at least 90% of end users are trained and each depot has 2 or more super-users",High,wave-4,training,,5,2026-11-23,2026-12-11,To Do,
+127,5,Story,"Wave 4 cutover runbook, rehearsal and rollback plan","Prepare and rehearse the Wave 4 cutover for Dec 18, 2026 (no cutovers after that date per the charter).
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* the Wave 4 runbook
+*When* a timed rehearsal is run
+*Then* downtime per depot is < 4 hours
+
+*AC2*
+*Given* the rollback plan
+*When* it is reviewed
+*Then* it is approved by the IT Director and the sponsor before the go/no-go",High,wave-4,cutover,,5,2026-11-30,2026-12-18,To Do,
+128,5,Story,Decommission the legacy ticketing system,"Retire the unsupported on-premise ticketing system after all 4 waves are live. Archive data older than 3 years stays read-only.
+
+h3. Acceptance Criteria
+
+*AC1*
+*Given* all 40 depots are live and hypercare is closed
+*When* the legacy system is switched off
+*Then* a read-only archive is available and the decommission is signed off by IT and Security by Jan 31, 2027",Medium,decommission,,,5,2027-01-04,2027-01-29,To Do,
