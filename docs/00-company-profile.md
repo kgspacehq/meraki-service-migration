@@ -25,7 +25,7 @@ Project: [`meraki-service-migration`](../README.md) (this repository)
 ### Wave 2 — ERP transformation
 Replace the legacy ERP with SAP S/4HANA Cloud.
 
-Project: `meraki-erp-transformation` (separate repository)
+Project: [`meraki-erp-transformation`](https://github.com/kgspacehq/meraki-erp-transformation) (separate repository)
 
 ## Pain points
 
