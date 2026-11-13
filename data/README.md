@@ -105,8 +105,8 @@ Go/no-go scorecard. Criteria C01–C06 are calculated from the tables above as o
 
 **Recommendation:** GO only if every gate criterion is met **and** the weighted score is at least 90.
 
-### `risks` (12 rows)
-Risk register aligned with the charter.
+### `risks` (15 rows)
+Risk register aligned with the charter. R-13 to R-15 cover DEF-100, DEF-112 and the Wave 3 NO-GO. The full register is in `docs/04-risk-register.xlsx`.
 
 | Column | Description |
 |---|---|

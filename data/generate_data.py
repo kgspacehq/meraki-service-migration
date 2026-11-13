@@ -362,6 +362,9 @@ risks = [
     ("R-10", "Budget overrun from extra cleansing sprints and Wave 3 re-test", 3, 3, "Keren Guillen", "Mitigate: draw from 10% contingency, monthly review with Finance", "Open"),
     ("R-11", "Depot key users unavailable for UAT during peak season", 3, 3, "Ana Morales", "Mitigate: book UAT slots 4 weeks ahead, backup key users per depot", "Occurred"),
     ("R-12", "Billing errors after go-live delay the financial close", 2, 4, "Sofia Delgado", "Mitigate: billing reconciliation in hypercare, finance sign-off on integration tests", "Open"),
+    ("R-13", "DEF-100 fix incomplete or other dirty depot codes drop open tickets in later loads", 3, 5, "Michelle Park", "Avoid: trim and validate depot codes (MSM-52), apply to Wave 4 mock load (MSM-54)", "Open"),
+    ("R-14", "DEF-112: Wave 1-2 work orders closed after migration were never invoiced", 4, 4, "Sofia Delgado", "Mitigate: fix DEF-112 (MSM-58), reconcile and back-bill Wave 1-2 work orders", "Open"),
+    ("R-15", "Wave 3 NO-GO: fixes and UAT re-test not done by Nov 18 push cutover into December", 4, 5, "Keren Guillen", "Mitigate: daily triage (MSM-52, MSM-58), UAT re-test (MSM-61), revised plan (MSM-66)", "Open"),
 ]
 risks = [dict(risk_id=r[0], description=r[1], probability=r[2], impact=r[3], owner=r[4], response=r[5], status=r[6]) for r in risks]
 
